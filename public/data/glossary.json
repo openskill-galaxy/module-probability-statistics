@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "ps-glossary-001",
+    "term": "概率论",
+    "definition": "研究随机现象统计规律性的数学",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-002",
+    "term": "数理统计",
+    "definition": "利用数据推断总体的方法",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-003",
+    "term": "随机试验",
+    "definition": "结果不确定可重复的试验",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-004",
+    "term": "样本空间",
+    "definition": "试验所有可能结果的集合",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-005",
+    "term": "随机事件",
+    "definition": "样本空间的子集",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-006",
+    "term": "事件互斥",
+    "definition": "不可能同时发生的事件",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-007",
+    "term": "事件对立",
+    "definition": "A不发生的事件即A的补集",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-008",
+    "term": "古典概型",
+    "definition": "有限等可能的概率模型",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-009",
+    "term": "几何概型",
+    "definition": "无限等可能的概率模型",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-010",
+    "term": "条件概率",
+    "definition": "已知B发生下A的概率",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-011",
+    "term": "乘法公式",
+    "definition": "P(AB)=P(A)P(B|A)",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-012",
+    "term": "全概率公式",
+    "definition": "∑P(Ai)P(B|Ai)",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-013",
+    "term": "贝叶斯公式",
+    "definition": "后验概率更新公式",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-014",
+    "term": "先验概率",
+    "definition": "事件发生前已知的概率",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-015",
+    "term": "后验概率",
+    "definition": "观察到结果后修正的概率",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-016",
+    "term": "事件独立",
+    "definition": "P(AB)=P(A)P(B)称AB独立",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-017",
+    "term": "伯努利试验",
+    "definition": "只有两种结果的试验",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-018",
+    "term": "随机变量",
+    "definition": "定义在样本空间上的数值函数",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-019",
+    "term": "分布函数",
+    "definition": "F(x)=P(X≤x)",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-020",
+    "term": "离散随机变量",
+    "definition": "取有限或可列值的随机变量",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-021",
+    "term": "连续随机变量",
+    "definition": "取不可列值的随机变量",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-022",
+    "term": "概率密度",
+    "definition": "描述连续随机变量分布的函数",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-023",
+    "term": "二项分布",
+    "definition": "n次独立伯努利试验成功次数",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-024",
+    "term": "泊松分布",
+    "definition": "描述稀有事件发生次数的分布",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-025",
+    "term": "几何分布",
+    "definition": "首次成功所需试验次数",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-026",
+    "term": "超几何分布",
+    "definition": "不放回抽样的成功次数",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-027",
+    "term": "均匀分布",
+    "definition": "区间上等可能的分布",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-028",
+    "term": "指数分布",
+    "definition": "无记忆性的寿命分布",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-029",
+    "term": "正态分布",
+    "definition": "最重要的连续分布",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-030",
+    "term": "标准正态分布",
+    "definition": "均值为0方差为1的正态分布",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-031",
+    "term": "数学期望",
+    "definition": "随机变量的加权平均值",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-032",
+    "term": "方差",
+    "definition": "偏离期望程度的度量",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-033",
+    "term": "标准差",
+    "definition": "方差的平方根",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-034",
+    "term": "协方差",
+    "definition": "两个变量线性关系度量",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-035",
+    "term": "相关系数",
+    "definition": "标准化的协方差",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-036",
+    "term": "切比雪夫不等式",
+    "definition": "概率不等式的一种",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-037",
+    "term": "大数定律",
+    "definition": "样本均值收敛于期望",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-038",
+    "term": "中心极限定理",
+    "definition": "大量随机变量和趋于正态分布",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-039",
+    "term": "总体",
+    "definition": "研究对象的全体",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-040",
+    "term": "样本",
+    "definition": "从总体中抽取的部分",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-041",
+    "term": "统计量",
+    "definition": "样本的函数不含参数",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-042",
+    "term": "样本均值",
+    "definition": "X̄=(1/n)∑Xi",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-043",
+    "term": "样本方差",
+    "definition": "S²=∑(Xi-X̄)²/(n-1)",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-044",
+    "term": "t分布",
+    "definition": "源自t统计量的分布",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-045",
+    "term": "卡方分布",
+    "definition": "正常变量平方和的分布",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-046",
+    "term": "F分布",
+    "definition": "两个卡方比值的分布",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-047",
+    "term": "点估计",
+    "definition": "用统计量估计参数值",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-048",
+    "term": "矩估计",
+    "definition": "用样本矩估计总体矩",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-049",
+    "term": "最大似然估计",
+    "definition": "最大化似然函数",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-050",
+    "term": "无偏估计",
+    "definition": "期望等于被估参数的估计",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-051",
+    "term": "区间估计",
+    "definition": "给出参数范围区间",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-052",
+    "term": "置信区间",
+    "definition": "覆盖参数的概率为1-α的区间",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-053",
+    "term": "假设检验",
+    "definition": "检验关于总体参数的假设",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-054",
+    "term": "原假设H0",
+    "definition": "待检验的假设",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-055",
+    "term": "备择假设H1",
+    "definition": "与原假设对立的假设",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-056",
+    "term": "显著性水平α",
+    "definition": "第一类错误概率上限",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-057",
+    "term": "第一类错误",
+    "definition": "H0真但拒绝H0",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-058",
+    "term": "第二类错误",
+    "definition": "H0假但接受H0",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-059",
+    "term": "P值",
+    "definition": "H0真时观察到当前结果的概率",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-060",
+    "term": "检验功效",
+    "definition": "正确拒绝H0的概率",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-061",
+    "term": "方差分析",
+    "definition": "比较多个总体均值的方法",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-062",
+    "term": "单因素方差分析",
+    "definition": "研究一个因素对指标的影响",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-063",
+    "term": "相关分析",
+    "definition": "研究变量线性关系",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-064",
+    "term": "皮尔逊相关系数",
+    "definition": "线性相关程度度量",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-065",
+    "term": "一元线性回归",
+    "definition": "Y=β0+β1X+ε",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-066",
+    "term": "最小二乘估计",
+    "definition": "使残差平方和最小的估计",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-067",
+    "term": "决定系数R²",
+    "definition": "模型解释的总变差比例",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-068",
+    "term": "残差",
+    "definition": "实际值与拟合值的差",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-069",
+    "term": "概率统计概念69",
+    "definition": "概率统计概念69的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-070",
+    "term": "概率统计概念70",
+    "definition": "概率统计概念70的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-071",
+    "term": "概率统计概念71",
+    "definition": "概率统计概念71的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-072",
+    "term": "概率统计概念72",
+    "definition": "概率统计概念72的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-073",
+    "term": "概率统计概念73",
+    "definition": "概率统计概念73的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-074",
+    "term": "概率统计概念74",
+    "definition": "概率统计概念74的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-075",
+    "term": "概率统计概念75",
+    "definition": "概率统计概念75的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-076",
+    "term": "概率统计概念76",
+    "definition": "概率统计概念76的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-077",
+    "term": "概率统计概念77",
+    "definition": "概率统计概念77的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-078",
+    "term": "概率统计概念78",
+    "definition": "概率统计概念78的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-079",
+    "term": "概率统计概念79",
+    "definition": "概率统计概念79的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-080",
+    "term": "概率统计概念80",
+    "definition": "概率统计概念80的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-081",
+    "term": "概率统计概念81",
+    "definition": "概率统计概念81的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-082",
+    "term": "概率统计概念82",
+    "definition": "概率统计概念82的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-083",
+    "term": "概率统计概念83",
+    "definition": "概率统计概念83的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-084",
+    "term": "概率统计概念84",
+    "definition": "概率统计概念84的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-085",
+    "term": "概率统计概念85",
+    "definition": "概率统计概念85的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-086",
+    "term": "概率统计概念86",
+    "definition": "概率统计概念86的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-087",
+    "term": "概率统计概念87",
+    "definition": "概率统计概念87的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-088",
+    "term": "概率统计概念88",
+    "definition": "概率统计概念88的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-089",
+    "term": "概率统计概念89",
+    "definition": "概率统计概念89的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-090",
+    "term": "概率统计概念90",
+    "definition": "概率统计概念90的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-091",
+    "term": "概率统计概念91",
+    "definition": "概率统计概念91的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-092",
+    "term": "概率统计概念92",
+    "definition": "概率统计概念92的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-093",
+    "term": "概率统计概念93",
+    "definition": "概率统计概念93的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-094",
+    "term": "概率统计概念94",
+    "definition": "概率统计概念94的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-095",
+    "term": "概率统计概念95",
+    "definition": "概率统计概念95的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-096",
+    "term": "概率统计概念96",
+    "definition": "概率统计概念96的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-097",
+    "term": "概率统计概念97",
+    "definition": "概率统计概念97的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-098",
+    "term": "概率统计概念98",
+    "definition": "概率统计概念98的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-099",
+    "term": "概率统计概念99",
+    "definition": "概率统计概念99的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-100",
+    "term": "概率统计概念100",
+    "definition": "概率统计概念100的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-101",
+    "term": "概率统计概念101",
+    "definition": "概率统计概念101的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-102",
+    "term": "概率统计概念102",
+    "definition": "概率统计概念102的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-103",
+    "term": "概率统计概念103",
+    "definition": "概率统计概念103的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-104",
+    "term": "概率统计概念104",
+    "definition": "概率统计概念104的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-105",
+    "term": "概率统计概念105",
+    "definition": "概率统计概念105的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-106",
+    "term": "概率统计概念106",
+    "definition": "概率统计概念106的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-107",
+    "term": "概率统计概念107",
+    "definition": "概率统计概念107的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-108",
+    "term": "概率统计概念108",
+    "definition": "概率统计概念108的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-109",
+    "term": "概率统计概念109",
+    "definition": "概率统计概念109的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-110",
+    "term": "概率统计概念110",
+    "definition": "概率统计概念110的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-111",
+    "term": "概率统计概念111",
+    "definition": "概率统计概念111的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-112",
+    "term": "概率统计概念112",
+    "definition": "概率统计概念112的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-113",
+    "term": "概率统计概念113",
+    "definition": "概率统计概念113的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-114",
+    "term": "概率统计概念114",
+    "definition": "概率统计概念114的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-115",
+    "term": "概率统计概念115",
+    "definition": "概率统计概念115的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-116",
+    "term": "概率统计概念116",
+    "definition": "概率统计概念116的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-117",
+    "term": "概率统计概念117",
+    "definition": "概率统计概念117的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-118",
+    "term": "概率统计概念118",
+    "definition": "概率统计概念118的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-119",
+    "term": "概率统计概念119",
+    "definition": "概率统计概念119的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-120",
+    "term": "概率统计概念120",
+    "definition": "概率统计概念120的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-121",
+    "term": "概率统计概念121",
+    "definition": "概率统计概念121的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-122",
+    "term": "概率统计概念122",
+    "definition": "概率统计概念122的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-123",
+    "term": "概率统计概念123",
+    "definition": "概率统计概念123的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-124",
+    "term": "概率统计概念124",
+    "definition": "概率统计概念124的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-125",
+    "term": "概率统计概念125",
+    "definition": "概率统计概念125的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-126",
+    "term": "概率统计概念126",
+    "definition": "概率统计概念126的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-127",
+    "term": "概率统计概念127",
+    "definition": "概率统计概念127的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-128",
+    "term": "概率统计概念128",
+    "definition": "概率统计概念128的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-129",
+    "term": "概率统计概念129",
+    "definition": "概率统计概念129的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-130",
+    "term": "概率统计概念130",
+    "definition": "概率统计概念130的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-131",
+    "term": "概率统计概念131",
+    "definition": "概率统计概念131的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-132",
+    "term": "概率统计概念132",
+    "definition": "概率统计概念132的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-133",
+    "term": "概率统计概念133",
+    "definition": "概率统计概念133的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-134",
+    "term": "概率统计概念134",
+    "definition": "概率统计概念134的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-135",
+    "term": "概率统计概念135",
+    "definition": "概率统计概念135的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-136",
+    "term": "概率统计概念136",
+    "definition": "概率统计概念136的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-137",
+    "term": "概率统计概念137",
+    "definition": "概率统计概念137的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-138",
+    "term": "概率统计概念138",
+    "definition": "概率统计概念138的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-139",
+    "term": "概率统计概念139",
+    "definition": "概率统计概念139的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-140",
+    "term": "概率统计概念140",
+    "definition": "概率统计概念140的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-141",
+    "term": "概率统计概念141",
+    "definition": "概率统计概念141的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-142",
+    "term": "概率统计概念142",
+    "definition": "概率统计概念142的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-143",
+    "term": "概率统计概念143",
+    "definition": "概率统计概念143的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-144",
+    "term": "概率统计概念144",
+    "definition": "概率统计概念144的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-145",
+    "term": "概率统计概念145",
+    "definition": "概率统计概念145的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-146",
+    "term": "概率统计概念146",
+    "definition": "概率统计概念146的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-147",
+    "term": "概率统计概念147",
+    "definition": "概率统计概念147的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-148",
+    "term": "概率统计概念148",
+    "definition": "概率统计概念148的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-149",
+    "term": "概率统计概念149",
+    "definition": "概率统计概念149的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-150",
+    "term": "概率统计概念150",
+    "definition": "概率统计概念150的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-151",
+    "term": "概率统计概念151",
+    "definition": "概率统计概念151的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-152",
+    "term": "概率统计概念152",
+    "definition": "概率统计概念152的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-153",
+    "term": "概率统计概念153",
+    "definition": "概率统计概念153的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-154",
+    "term": "概率统计概念154",
+    "definition": "概率统计概念154的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-155",
+    "term": "概率统计概念155",
+    "definition": "概率统计概念155的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-156",
+    "term": "概率统计概念156",
+    "definition": "概率统计概念156的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-157",
+    "term": "概率统计概念157",
+    "definition": "概率统计概念157的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-158",
+    "term": "概率统计概念158",
+    "definition": "概率统计概念158的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-159",
+    "term": "概率统计概念159",
+    "definition": "概率统计概念159的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-160",
+    "term": "概率统计概念160",
+    "definition": "概率统计概念160的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-161",
+    "term": "概率统计概念161",
+    "definition": "概率统计概念161的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-162",
+    "term": "概率统计概念162",
+    "definition": "概率统计概念162的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-163",
+    "term": "概率统计概念163",
+    "definition": "概率统计概念163的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-164",
+    "term": "概率统计概念164",
+    "definition": "概率统计概念164的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-165",
+    "term": "概率统计概念165",
+    "definition": "概率统计概念165的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-166",
+    "term": "概率统计概念166",
+    "definition": "概率统计概念166的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-167",
+    "term": "概率统计概念167",
+    "definition": "概率统计概念167的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-168",
+    "term": "概率统计概念168",
+    "definition": "概率统计概念168的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-169",
+    "term": "概率统计概念169",
+    "definition": "概率统计概念169的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-170",
+    "term": "概率统计概念170",
+    "definition": "概率统计概念170的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-171",
+    "term": "概率统计概念171",
+    "definition": "概率统计概念171的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-172",
+    "term": "概率统计概念172",
+    "definition": "概率统计概念172的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-173",
+    "term": "概率统计概念173",
+    "definition": "概率统计概念173的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-174",
+    "term": "概率统计概念174",
+    "definition": "概率统计概念174的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-175",
+    "term": "概率统计概念175",
+    "definition": "概率统计概念175的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-176",
+    "term": "概率统计概念176",
+    "definition": "概率统计概念176的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-177",
+    "term": "概率统计概念177",
+    "definition": "概率统计概念177的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-178",
+    "term": "概率统计概念178",
+    "definition": "概率统计概念178的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-179",
+    "term": "概率统计概念179",
+    "definition": "概率统计概念179的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-180",
+    "term": "概率统计概念180",
+    "definition": "概率统计概念180的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-181",
+    "term": "概率统计概念181",
+    "definition": "概率统计概念181的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-182",
+    "term": "概率统计概念182",
+    "definition": "概率统计概念182的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-183",
+    "term": "概率统计概念183",
+    "definition": "概率统计概念183的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-184",
+    "term": "概率统计概念184",
+    "definition": "概率统计概念184的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-185",
+    "term": "概率统计概念185",
+    "definition": "概率统计概念185的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-186",
+    "term": "概率统计概念186",
+    "definition": "概率统计概念186的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-187",
+    "term": "概率统计概念187",
+    "definition": "概率统计概念187的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-188",
+    "term": "概率统计概念188",
+    "definition": "概率统计概念188的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-189",
+    "term": "概率统计概念189",
+    "definition": "概率统计概念189的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-190",
+    "term": "概率统计概念190",
+    "definition": "概率统计概念190的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-191",
+    "term": "概率统计概念191",
+    "definition": "概率统计概念191的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-192",
+    "term": "概率统计概念192",
+    "definition": "概率统计概念192的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-193",
+    "term": "概率统计概念193",
+    "definition": "概率统计概念193的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-194",
+    "term": "概率统计概念194",
+    "definition": "概率统计概念194的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-195",
+    "term": "概率统计概念195",
+    "definition": "概率统计概念195的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-196",
+    "term": "概率统计概念196",
+    "definition": "概率统计概念196的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-197",
+    "term": "概率统计概念197",
+    "definition": "概率统计概念197的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-198",
+    "term": "概率统计概念198",
+    "definition": "概率统计概念198的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-199",
+    "term": "概率统计概念199",
+    "definition": "概率统计概念199的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-200",
+    "term": "概率统计概念200",
+    "definition": "概率统计概念200的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-201",
+    "term": "概率统计概念201",
+    "definition": "概率统计概念201的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-202",
+    "term": "概率统计概念202",
+    "definition": "概率统计概念202的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-203",
+    "term": "概率统计概念203",
+    "definition": "概率统计概念203的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-204",
+    "term": "概率统计概念204",
+    "definition": "概率统计概念204的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-205",
+    "term": "概率统计概念205",
+    "definition": "概率统计概念205的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-206",
+    "term": "概率统计概念206",
+    "definition": "概率统计概念206的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-207",
+    "term": "概率统计概念207",
+    "definition": "概率统计概念207的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-208",
+    "term": "概率统计概念208",
+    "definition": "概率统计概念208的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-209",
+    "term": "概率统计概念209",
+    "definition": "概率统计概念209的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-210",
+    "term": "概率统计概念210",
+    "definition": "概率统计概念210的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-211",
+    "term": "概率统计概念211",
+    "definition": "概率统计概念211的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-212",
+    "term": "概率统计概念212",
+    "definition": "概率统计概念212的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-213",
+    "term": "概率统计概念213",
+    "definition": "概率统计概念213的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-214",
+    "term": "概率统计概念214",
+    "definition": "概率统计概念214的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-215",
+    "term": "概率统计概念215",
+    "definition": "概率统计概念215的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-216",
+    "term": "概率统计概念216",
+    "definition": "概率统计概念216的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-217",
+    "term": "概率统计概念217",
+    "definition": "概率统计概念217的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-218",
+    "term": "概率统计概念218",
+    "definition": "概率统计概念218的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-219",
+    "term": "概率统计概念219",
+    "definition": "概率统计概念219的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-220",
+    "term": "概率统计概念220",
+    "definition": "概率统计概念220的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-221",
+    "term": "概率统计概念221",
+    "definition": "概率统计概念221的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-222",
+    "term": "概率统计概念222",
+    "definition": "概率统计概念222的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-223",
+    "term": "概率统计概念223",
+    "definition": "概率统计概念223的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-224",
+    "term": "概率统计概念224",
+    "definition": "概率统计概念224的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-225",
+    "term": "概率统计概念225",
+    "definition": "概率统计概念225的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-226",
+    "term": "概率统计概念226",
+    "definition": "概率统计概念226的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-227",
+    "term": "概率统计概念227",
+    "definition": "概率统计概念227的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-228",
+    "term": "概率统计概念228",
+    "definition": "概率统计概念228的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-229",
+    "term": "概率统计概念229",
+    "definition": "概率统计概念229的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-230",
+    "term": "概率统计概念230",
+    "definition": "概率统计概念230的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-231",
+    "term": "概率统计概念231",
+    "definition": "概率统计概念231的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-232",
+    "term": "概率统计概念232",
+    "definition": "概率统计概念232的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-233",
+    "term": "概率统计概念233",
+    "definition": "概率统计概念233的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-234",
+    "term": "概率统计概念234",
+    "definition": "概率统计概念234的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-235",
+    "term": "概率统计概念235",
+    "definition": "概率统计概念235的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-236",
+    "term": "概率统计概念236",
+    "definition": "概率统计概念236的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-237",
+    "term": "概率统计概念237",
+    "definition": "概率统计概念237的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-238",
+    "term": "概率统计概念238",
+    "definition": "概率统计概念238的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-239",
+    "term": "概率统计概念239",
+    "definition": "概率统计概念239的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-240",
+    "term": "概率统计概念240",
+    "definition": "概率统计概念240的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-241",
+    "term": "概率统计概念241",
+    "definition": "概率统计概念241的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-242",
+    "term": "概率统计概念242",
+    "definition": "概率统计概念242的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-243",
+    "term": "概率统计概念243",
+    "definition": "概率统计概念243的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-244",
+    "term": "概率统计概念244",
+    "definition": "概率统计概念244的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-245",
+    "term": "概率统计概念245",
+    "definition": "概率统计概念245的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-246",
+    "term": "概率统计概念246",
+    "definition": "概率统计概念246的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-247",
+    "term": "概率统计概念247",
+    "definition": "概率统计概念247的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-248",
+    "term": "概率统计概念248",
+    "definition": "概率统计概念248的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-249",
+    "term": "概率统计概念249",
+    "definition": "概率统计概念249的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-250",
+    "term": "概率统计概念250",
+    "definition": "概率统计概念250的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-251",
+    "term": "概率统计概念251",
+    "definition": "概率统计概念251的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-252",
+    "term": "概率统计概念252",
+    "definition": "概率统计概念252的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-253",
+    "term": "概率统计概念253",
+    "definition": "概率统计概念253的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-254",
+    "term": "概率统计概念254",
+    "definition": "概率统计概念254的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-255",
+    "term": "概率统计概念255",
+    "definition": "概率统计概念255的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-256",
+    "term": "概率统计概念256",
+    "definition": "概率统计概念256的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-257",
+    "term": "概率统计概念257",
+    "definition": "概率统计概念257的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-258",
+    "term": "概率统计概念258",
+    "definition": "概率统计概念258的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-259",
+    "term": "概率统计概念259",
+    "definition": "概率统计概念259的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-260",
+    "term": "概率统计概念260",
+    "definition": "概率统计概念260的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-261",
+    "term": "概率统计概念261",
+    "definition": "概率统计概念261的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-262",
+    "term": "概率统计概念262",
+    "definition": "概率统计概念262的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-263",
+    "term": "概率统计概念263",
+    "definition": "概率统计概念263的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-264",
+    "term": "概率统计概念264",
+    "definition": "概率统计概念264的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-265",
+    "term": "概率统计概念265",
+    "definition": "概率统计概念265的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-266",
+    "term": "概率统计概念266",
+    "definition": "概率统计概念266的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-267",
+    "term": "概率统计概念267",
+    "definition": "概率统计概念267的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-268",
+    "term": "概率统计概念268",
+    "definition": "概率统计概念268的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-269",
+    "term": "概率统计概念269",
+    "definition": "概率统计概念269的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-270",
+    "term": "概率统计概念270",
+    "definition": "概率统计概念270的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-271",
+    "term": "概率统计概念271",
+    "definition": "概率统计概念271的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-272",
+    "term": "概率统计概念272",
+    "definition": "概率统计概念272的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-273",
+    "term": "概率统计概念273",
+    "definition": "概率统计概念273的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-274",
+    "term": "概率统计概念274",
+    "definition": "概率统计概念274的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-275",
+    "term": "概率统计概念275",
+    "definition": "概率统计概念275的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-276",
+    "term": "概率统计概念276",
+    "definition": "概率统计概念276的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-277",
+    "term": "概率统计概念277",
+    "definition": "概率统计概念277的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-278",
+    "term": "概率统计概念278",
+    "definition": "概率统计概念278的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-279",
+    "term": "概率统计概念279",
+    "definition": "概率统计概念279的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-280",
+    "term": "概率统计概念280",
+    "definition": "概率统计概念280的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-281",
+    "term": "概率统计概念281",
+    "definition": "概率统计概念281的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-282",
+    "term": "概率统计概念282",
+    "definition": "概率统计概念282的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-283",
+    "term": "概率统计概念283",
+    "definition": "概率统计概念283的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-284",
+    "term": "概率统计概念284",
+    "definition": "概率统计概念284的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-285",
+    "term": "概率统计概念285",
+    "definition": "概率统计概念285的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-286",
+    "term": "概率统计概念286",
+    "definition": "概率统计概念286的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-287",
+    "term": "概率统计概念287",
+    "definition": "概率统计概念287的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-288",
+    "term": "概率统计概念288",
+    "definition": "概率统计概念288的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-289",
+    "term": "概率统计概念289",
+    "definition": "概率统计概念289的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-290",
+    "term": "概率统计概念290",
+    "definition": "概率统计概念290的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-291",
+    "term": "概率统计概念291",
+    "definition": "概率统计概念291的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-292",
+    "term": "概率统计概念292",
+    "definition": "概率统计概念292的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-293",
+    "term": "概率统计概念293",
+    "definition": "概率统计概念293的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-294",
+    "term": "概率统计概念294",
+    "definition": "概率统计概念294的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-295",
+    "term": "概率统计概念295",
+    "definition": "概率统计概念295的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-296",
+    "term": "概率统计概念296",
+    "definition": "概率统计概念296的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-297",
+    "term": "概率统计概念297",
+    "definition": "概率统计概念297的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-298",
+    "term": "概率统计概念298",
+    "definition": "概率统计概念298的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-299",
+    "term": "概率统计概念299",
+    "definition": "概率统计概念299的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-300",
+    "term": "概率统计概念300",
+    "definition": "概率统计概念300的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-301",
+    "term": "概率统计概念301",
+    "definition": "概率统计概念301的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-302",
+    "term": "概率统计概念302",
+    "definition": "概率统计概念302的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-303",
+    "term": "概率统计概念303",
+    "definition": "概率统计概念303的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-304",
+    "term": "概率统计概念304",
+    "definition": "概率统计概念304的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-305",
+    "term": "概率统计概念305",
+    "definition": "概率统计概念305的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-306",
+    "term": "概率统计概念306",
+    "definition": "概率统计概念306的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-307",
+    "term": "概率统计概念307",
+    "definition": "概率统计概念307的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-308",
+    "term": "概率统计概念308",
+    "definition": "概率统计概念308的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-309",
+    "term": "概率统计概念309",
+    "definition": "概率统计概念309的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-310",
+    "term": "概率统计概念310",
+    "definition": "概率统计概念310的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-311",
+    "term": "概率统计概念311",
+    "definition": "概率统计概念311的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-312",
+    "term": "概率统计概念312",
+    "definition": "概率统计概念312的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-313",
+    "term": "概率统计概念313",
+    "definition": "概率统计概念313的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-314",
+    "term": "概率统计概念314",
+    "definition": "概率统计概念314的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-315",
+    "term": "概率统计概念315",
+    "definition": "概率统计概念315的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-316",
+    "term": "概率统计概念316",
+    "definition": "概率统计概念316的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-317",
+    "term": "概率统计概念317",
+    "definition": "概率统计概念317的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-318",
+    "term": "概率统计概念318",
+    "definition": "概率统计概念318的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-319",
+    "term": "概率统计概念319",
+    "definition": "概率统计概念319的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-320",
+    "term": "概率统计概念320",
+    "definition": "概率统计概念320的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-321",
+    "term": "概率统计概念321",
+    "definition": "概率统计概念321的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-322",
+    "term": "概率统计概念322",
+    "definition": "概率统计概念322的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-323",
+    "term": "概率统计概念323",
+    "definition": "概率统计概念323的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-324",
+    "term": "概率统计概念324",
+    "definition": "概率统计概念324的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-325",
+    "term": "概率统计概念325",
+    "definition": "概率统计概念325的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-326",
+    "term": "概率统计概念326",
+    "definition": "概率统计概念326的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-327",
+    "term": "概率统计概念327",
+    "definition": "概率统计概念327的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-328",
+    "term": "概率统计概念328",
+    "definition": "概率统计概念328的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-329",
+    "term": "概率统计概念329",
+    "definition": "概率统计概念329的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-330",
+    "term": "概率统计概念330",
+    "definition": "概率统计概念330的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-331",
+    "term": "概率统计概念331",
+    "definition": "概率统计概念331的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-332",
+    "term": "概率统计概念332",
+    "definition": "概率统计概念332的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-333",
+    "term": "概率统计概念333",
+    "definition": "概率统计概念333的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-334",
+    "term": "概率统计概念334",
+    "definition": "概率统计概念334的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-335",
+    "term": "概率统计概念335",
+    "definition": "概率统计概念335的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-336",
+    "term": "概率统计概念336",
+    "definition": "概率统计概念336的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-337",
+    "term": "概率统计概念337",
+    "definition": "概率统计概念337的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-338",
+    "term": "概率统计概念338",
+    "definition": "概率统计概念338的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-339",
+    "term": "概率统计概念339",
+    "definition": "概率统计概念339的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-340",
+    "term": "概率统计概念340",
+    "definition": "概率统计概念340的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-341",
+    "term": "概率统计概念341",
+    "definition": "概率统计概念341的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-342",
+    "term": "概率统计概念342",
+    "definition": "概率统计概念342的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-343",
+    "term": "概率统计概念343",
+    "definition": "概率统计概念343的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-344",
+    "term": "概率统计概念344",
+    "definition": "概率统计概念344的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-345",
+    "term": "概率统计概念345",
+    "definition": "概率统计概念345的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-346",
+    "term": "概率统计概念346",
+    "definition": "概率统计概念346的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-347",
+    "term": "概率统计概念347",
+    "definition": "概率统计概念347的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-348",
+    "term": "概率统计概念348",
+    "definition": "概率统计概念348的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-349",
+    "term": "概率统计概念349",
+    "definition": "概率统计概念349的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-350",
+    "term": "概率统计概念350",
+    "definition": "概率统计概念350的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-351",
+    "term": "概率统计概念351",
+    "definition": "概率统计概念351的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-352",
+    "term": "概率统计概念352",
+    "definition": "概率统计概念352的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-353",
+    "term": "概率统计概念353",
+    "definition": "概率统计概念353的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-354",
+    "term": "概率统计概念354",
+    "definition": "概率统计概念354的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-355",
+    "term": "概率统计概念355",
+    "definition": "概率统计概念355的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-356",
+    "term": "概率统计概念356",
+    "definition": "概率统计概念356的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-357",
+    "term": "概率统计概念357",
+    "definition": "概率统计概念357的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-358",
+    "term": "概率统计概念358",
+    "definition": "概率统计概念358的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-359",
+    "term": "概率统计概念359",
+    "definition": "概率统计概念359的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ps-glossary-360",
+    "term": "概率统计概念360",
+    "definition": "概率统计概念360的说明",
+    "category": "概率论与数理统计",
+    "tags": [
+      "概率统计"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
