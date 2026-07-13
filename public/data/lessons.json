@@ -24,7 +24,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率论与统计学的关系\n\n概率论与统计学的关系的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了概率论与统计学的关系的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-001"
+    ]
   },
   {
     "id": "ps-lesson-002",
@@ -51,7 +55,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率论发展简史\n\n概率论发展简史的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了概率论发展简史的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-002"
+    ]
   },
   {
     "id": "ps-lesson-003",
@@ -78,7 +86,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率论在现实中的应用\n\n概率论在现实中的应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了概率论在现实中的应用的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-003"
+    ]
   },
   {
     "id": "ps-lesson-004",
@@ -105,7 +117,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 统计思维入门\n\n统计思维入门的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了统计思维入门的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-004"
+    ]
   },
   {
     "id": "ps-lesson-005",
@@ -133,7 +149,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 随机试验与样本空间\n\n随机试验与样本空间的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了随机试验与样本空间的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-005",
+      "ps-kp-006"
+    ]
   },
   {
     "id": "ps-lesson-006",
@@ -160,7 +181,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 随机事件的定义\n\n随机事件的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了随机事件的定义的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-007"
+    ]
   },
   {
     "id": "ps-lesson-007",
@@ -188,7 +213,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 事件的关系与运算\n\n事件的关系与运算的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了事件的关系与运算的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-008",
+      "ps-kp-009"
+    ]
   },
   {
     "id": "ps-lesson-008",
@@ -216,7 +246,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率的公理化定义\n\n概率的公理化定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了概率的公理化定义的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-010",
+      "ps-kp-011"
+    ]
   },
   {
     "id": "ps-lesson-009",
@@ -243,7 +278,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率的性质\n\n概率的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了概率的性质的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-012"
+    ]
   },
   {
     "id": "ps-lesson-010",
@@ -271,7 +310,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 古典概型\n\n古典概型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了古典概型的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-013",
+      "ps-kp-014"
+    ]
   },
   {
     "id": "ps-lesson-011",
@@ -298,7 +342,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 几何概型\n\n几何概型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了几何概型的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-015"
+    ]
   },
   {
     "id": "ps-lesson-012",
@@ -325,7 +373,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率计算的应用\n\n概率计算的应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了概率计算的应用的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-016"
+    ]
   },
   {
     "id": "ps-lesson-013",
@@ -347,7 +399,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件概率的定义\n\n条件概率的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了条件概率的定义的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-017",
+      "ps-kp-018"
+    ]
   },
   {
     "id": "ps-lesson-014",
@@ -368,7 +425,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 乘法公式\n\n乘法公式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了乘法公式的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-019"
+    ]
   },
   {
     "id": "ps-lesson-015",
@@ -390,7 +451,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 全概率公式\n\n全概率公式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了全概率公式的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-020",
+      "ps-kp-021"
+    ]
   },
   {
     "id": "ps-lesson-016",
@@ -413,7 +479,13 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 贝叶斯公式\n\n贝叶斯公式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了贝叶斯公式的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-022",
+      "ps-kp-023",
+      "ps-kp-024"
+    ]
   },
   {
     "id": "ps-lesson-017",
@@ -435,7 +507,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 事件的独立性\n\n事件的独立性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了事件的独立性的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-025",
+      "ps-kp-026"
+    ]
   },
   {
     "id": "ps-lesson-018",
@@ -456,7 +533,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 伯努利试验与独立试验序列\n\n伯努利试验与独立试验序列的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了伯努利试验与独立试验序列的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-027"
+    ]
   },
   {
     "id": "ps-lesson-019",
@@ -484,7 +565,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 随机变量的概念\n\n随机变量的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了随机变量的概念的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-028",
+      "ps-kp-029"
+    ]
   },
   {
     "id": "ps-lesson-020",
@@ -512,7 +598,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分布函数的定义与性质\n\n分布函数的定义与性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了分布函数的定义与性质的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-030",
+      "ps-kp-031"
+    ]
   },
   {
     "id": "ps-lesson-021",
@@ -539,7 +630,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 离散型随机变量\n\n离散型随机变量的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了离散型随机变量的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-032"
+    ]
   },
   {
     "id": "ps-lesson-022",
@@ -566,7 +661,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 连续型随机变量\n\n连续型随机变量的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了连续型随机变量的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-033"
+    ]
   },
   {
     "id": "ps-lesson-023",
@@ -594,7 +693,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率密度函数\n\n概率密度函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了概率密度函数的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-034",
+      "ps-kp-035"
+    ]
   },
   {
     "id": "ps-lesson-024",
@@ -621,7 +725,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分布函数与密度的关系\n\n分布函数与密度的关系的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了分布函数与密度的关系的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-036"
+    ]
   },
   {
     "id": "ps-lesson-025",
@@ -649,7 +757,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 随机变量函数的分布\n\n随机变量函数的分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了随机变量函数的分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-037",
+      "ps-kp-038"
+    ]
   },
   {
     "id": "ps-lesson-026",
@@ -677,7 +790,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二维随机变量的联合分布\n\n二维随机变量的联合分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二维随机变量的联合分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-039",
+      "ps-kp-040"
+    ]
   },
   {
     "id": "ps-lesson-027",
@@ -704,7 +822,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 联合分布函数\n\n联合分布函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了联合分布函数的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-041"
+    ]
   },
   {
     "id": "ps-lesson-028",
@@ -732,7 +854,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 边缘分布\n\n边缘分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了边缘分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-042",
+      "ps-kp-043"
+    ]
   },
   {
     "id": "ps-lesson-029",
@@ -760,7 +887,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件分布\n\n条件分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了条件分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-044",
+      "ps-kp-045"
+    ]
   },
   {
     "id": "ps-lesson-030",
@@ -788,7 +920,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 随机变量的独立性\n\n随机变量的独立性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了随机变量的独立性的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-046",
+      "ps-kp-047"
+    ]
   },
   {
     "id": "ps-lesson-031",
@@ -815,7 +952,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二维随机变量函数的分布\n\n二维随机变量函数的分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二维随机变量函数的分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-048"
+    ]
   },
   {
     "id": "ps-lesson-032",
@@ -842,7 +983,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多维随机变量简介\n\n多维随机变量简介的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了多维随机变量简介的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-049"
+    ]
   },
   {
     "id": "ps-lesson-033",
@@ -871,7 +1016,13 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数学期望的定义\n\n数学期望的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了数学期望的定义的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-050",
+      "ps-kp-051",
+      "ps-kp-052"
+    ]
   },
   {
     "id": "ps-lesson-034",
@@ -898,7 +1049,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 随机变量函数的期望\n\n随机变量函数的期望的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了随机变量函数的期望的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-053"
+    ]
   },
   {
     "id": "ps-lesson-035",
@@ -925,7 +1080,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 期望的性质\n\n期望的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了期望的性质的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-054"
+    ]
   },
   {
     "id": "ps-lesson-036",
@@ -953,7 +1112,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方差的定义\n\n方差的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了方差的定义的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-055",
+      "ps-kp-056"
+    ]
   },
   {
     "id": "ps-lesson-037",
@@ -980,7 +1144,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方差的性质\n\n方差的性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了方差的性质的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-057"
+    ]
   },
   {
     "id": "ps-lesson-038",
@@ -1007,7 +1175,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 标准差\n\n标准差的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了标准差的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-058"
+    ]
   },
   {
     "id": "ps-lesson-039",
@@ -1035,7 +1207,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 协方差\n\n协方差的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了协方差的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-059",
+      "ps-kp-060"
+    ]
   },
   {
     "id": "ps-lesson-040",
@@ -1063,7 +1240,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 相关系数\n\n相关系数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了相关系数的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-061",
+      "ps-kp-062"
+    ]
   },
   {
     "id": "ps-lesson-041",
@@ -1091,7 +1273,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩与矩母函数\n\n矩与矩母函数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩与矩母函数的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-063",
+      "ps-kp-064"
+    ]
   },
   {
     "id": "ps-lesson-042",
@@ -1118,7 +1305,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 切比雪夫不等式\n\n切比雪夫不等式的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了切比雪夫不等式的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-065"
+    ]
   },
   {
     "id": "ps-lesson-043",
@@ -1147,7 +1338,13 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二项分布的定义与性质\n\n二项分布的定义与性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二项分布的定义与性质的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-066",
+      "ps-kp-067",
+      "ps-kp-068"
+    ]
   },
   {
     "id": "ps-lesson-044",
@@ -1174,7 +1371,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二项分布的期望与方差\n\n二项分布的期望与方差的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了二项分布的期望与方差的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-069"
+    ]
   },
   {
     "id": "ps-lesson-045",
@@ -1202,7 +1403,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泊松分布的定义与性质\n\n泊松分布的定义与性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了泊松分布的定义与性质的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-070",
+      "ps-kp-071"
+    ]
   },
   {
     "id": "ps-lesson-046",
@@ -1229,7 +1435,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泊松定理与泊松近似\n\n泊松定理与泊松近似的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了泊松定理与泊松近似的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-072"
+    ]
   },
   {
     "id": "ps-lesson-047",
@@ -1257,7 +1467,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 几何分布\n\n几何分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了几何分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-073",
+      "ps-kp-074"
+    ]
   },
   {
     "id": "ps-lesson-048",
@@ -1285,7 +1500,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 超几何分布\n\n超几何分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了超几何分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-075",
+      "ps-kp-076"
+    ]
   },
   {
     "id": "ps-lesson-049",
@@ -1313,7 +1533,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 均匀分布\n\n均匀分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了均匀分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-077",
+      "ps-kp-078"
+    ]
   },
   {
     "id": "ps-lesson-050",
@@ -1341,7 +1566,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指数分布\n\n指数分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了指数分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-079",
+      "ps-kp-080"
+    ]
   },
   {
     "id": "ps-lesson-051",
@@ -1368,7 +1598,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指数分布的无记忆性\n\n指数分布的无记忆性的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了指数分布的无记忆性的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-081"
+    ]
   },
   {
     "id": "ps-lesson-052",
@@ -1397,7 +1631,13 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正态分布的定义与性质\n\n正态分布的定义与性质的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了正态分布的定义与性质的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-082",
+      "ps-kp-083",
+      "ps-kp-084"
+    ]
   },
   {
     "id": "ps-lesson-053",
@@ -1424,7 +1664,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 标准正态分布\n\n标准正态分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了标准正态分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-085"
+    ]
   },
   {
     "id": "ps-lesson-054",
@@ -1451,7 +1695,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正态分布的标准化\n\n正态分布的标准化的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了正态分布的标准化的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-086"
+    ]
   },
   {
     "id": "ps-lesson-055",
@@ -1478,7 +1726,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正态分布的应用\n\n正态分布的应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了正态分布的应用的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-087"
+    ]
   },
   {
     "id": "ps-lesson-056",
@@ -1506,7 +1758,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 卡方分布t分布F分布\n\n卡方分布t分布F分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了卡方分布t分布F分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-088",
+      "ps-kp-089"
+    ]
   },
   {
     "id": "ps-lesson-057",
@@ -1534,7 +1791,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 大数定律的直观意义\n\n大数定律的直观意义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了大数定律的直观意义的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-090",
+      "ps-kp-091"
+    ]
   },
   {
     "id": "ps-lesson-058",
@@ -1561,7 +1823,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 切比雪夫大数定律\n\n切比雪夫大数定律的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了切比雪夫大数定律的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-092"
+    ]
   },
   {
     "id": "ps-lesson-059",
@@ -1588,7 +1854,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 辛钦大数定律\n\n辛钦大数定律的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了辛钦大数定律的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-093"
+    ]
   },
   {
     "id": "ps-lesson-060",
@@ -1615,7 +1885,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 伯努利大数定律\n\n伯努利大数定律的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了伯努利大数定律的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-094"
+    ]
   },
   {
     "id": "ps-lesson-061",
@@ -1644,7 +1918,13 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中心极限定理\n\n中心极限定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了中心极限定理的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-095",
+      "ps-kp-096",
+      "ps-kp-097"
+    ]
   },
   {
     "id": "ps-lesson-062",
@@ -1671,7 +1951,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 林德伯格-莱维定理\n\n林德伯格-莱维定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了林德伯格-莱维定理的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-098"
+    ]
   },
   {
     "id": "ps-lesson-063",
@@ -1698,7 +1982,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 棣莫弗-拉普拉斯定理\n\n棣莫弗-拉普拉斯定理的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了棣莫弗-拉普拉斯定理的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-099"
+    ]
   },
   {
     "id": "ps-lesson-064",
@@ -1725,7 +2013,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中心极限定理的应用\n\n中心极限定理的应用的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了中心极限定理的应用的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-100"
+    ]
   },
   {
     "id": "ps-lesson-065",
@@ -1753,7 +2045,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 总体与样本的概念\n\n总体与样本的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了总体与样本的概念的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-101",
+      "ps-kp-102"
+    ]
   },
   {
     "id": "ps-lesson-066",
@@ -1781,7 +2078,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 统计量\n\n统计量的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了统计量的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-103",
+      "ps-kp-104"
+    ]
   },
   {
     "id": "ps-lesson-067",
@@ -1808,7 +2110,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 样本均值与样本方差\n\n样本均值与样本方差的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了样本均值与样本方差的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-105"
+    ]
   },
   {
     "id": "ps-lesson-068",
@@ -1835,7 +2141,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 抽样分布\n\n抽样分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了抽样分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-106"
+    ]
   },
   {
     "id": "ps-lesson-069",
@@ -1862,7 +2172,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 卡方分布的定义\n\n卡方分布的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了卡方分布的定义的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-107"
+    ]
   },
   {
     "id": "ps-lesson-070",
@@ -1889,7 +2203,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# t分布的定义\n\nt分布的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了t分布的定义的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-108"
+    ]
   },
   {
     "id": "ps-lesson-071",
@@ -1916,7 +2234,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# F分布的定义\n\nF分布的定义的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了F分布的定义的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-109"
+    ]
   },
   {
     "id": "ps-lesson-072",
@@ -1943,7 +2265,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正态总体的抽样分布\n\n正态总体的抽样分布的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了正态总体的抽样分布的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-110"
+    ]
   },
   {
     "id": "ps-lesson-073",
@@ -1971,7 +2297,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 点估计的概念\n\n点估计的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了点估计的概念的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-111",
+      "ps-kp-112"
+    ]
   },
   {
     "id": "ps-lesson-074",
@@ -1999,7 +2330,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩估计法\n\n矩估计法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了矩估计法的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-113",
+      "ps-kp-114"
+    ]
   },
   {
     "id": "ps-lesson-075",
@@ -2028,7 +2364,13 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 最大似然估计\n\n最大似然估计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了最大似然估计的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-115",
+      "ps-kp-116",
+      "ps-kp-117"
+    ]
   },
   {
     "id": "ps-lesson-076",
@@ -2055,7 +2397,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 估计量的评价标准\n\n估计量的评价标准的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了估计量的评价标准的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-118"
+    ]
   },
   {
     "id": "ps-lesson-077",
@@ -2082,7 +2428,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 无偏估计\n\n无偏估计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了无偏估计的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-119"
+    ]
   },
   {
     "id": "ps-lesson-078",
@@ -2109,7 +2459,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 有效估计\n\n有效估计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了有效估计的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-120"
+    ]
   },
   {
     "id": "ps-lesson-079",
@@ -2136,7 +2490,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 一致估计\n\n一致估计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了一致估计的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-121"
+    ]
   },
   {
     "id": "ps-lesson-080",
@@ -2164,7 +2522,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 区间估计\n\n区间估计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了区间估计的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-122",
+      "ps-kp-123"
+    ]
   },
   {
     "id": "ps-lesson-081",
@@ -2191,7 +2554,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单个正态总体均值的置信区间\n\n单个正态总体均值的置信区间的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了单个正态总体均值的置信区间的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-124"
+    ]
   },
   {
     "id": "ps-lesson-082",
@@ -2218,7 +2585,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单个正态总体方差的置信区间\n\n单个正态总体方差的置信区间的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了单个正态总体方差的置信区间的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-125"
+    ]
   },
   {
     "id": "ps-lesson-083",
@@ -2245,7 +2616,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 两个正态总体参数的置信区间\n\n两个正态总体参数的置信区间的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了两个正态总体参数的置信区间的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-126"
+    ]
   },
   {
     "id": "ps-lesson-084",
@@ -2272,7 +2647,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 总体比例的置信区间\n\n总体比例的置信区间的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了总体比例的置信区间的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-127"
+    ]
   },
   {
     "id": "ps-lesson-085",
@@ -2300,7 +2679,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 假设检验的基本思想\n\n假设检验的基本思想的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了假设检验的基本思想的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-128",
+      "ps-kp-129"
+    ]
   },
   {
     "id": "ps-lesson-086",
@@ -2327,7 +2711,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 原假设与备择假设\n\n原假设与备择假设的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了原假设与备择假设的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-130"
+    ]
   },
   {
     "id": "ps-lesson-087",
@@ -2354,7 +2742,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 显著性水平\n\n显著性水平的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了显著性水平的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-131"
+    ]
   },
   {
     "id": "ps-lesson-088",
@@ -2381,7 +2773,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 检验统计量与拒绝域\n\n检验统计量与拒绝域的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了检验统计量与拒绝域的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-132"
+    ]
   },
   {
     "id": "ps-lesson-089",
@@ -2409,7 +2805,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 第一类错误与第二类错误\n\n第一类错误与第二类错误的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了第一类错误与第二类错误的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-133",
+      "ps-kp-134"
+    ]
   },
   {
     "id": "ps-lesson-090",
@@ -2436,7 +2837,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# P值的概念解释\n\nP值的概念解释的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了P值的概念解释的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-135"
+    ]
   },
   {
     "id": "ps-lesson-091",
@@ -2463,7 +2868,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单个正态总体均值的检验\n\n单个正态总体均值的检验的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了单个正态总体均值的检验的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-136"
+    ]
   },
   {
     "id": "ps-lesson-092",
@@ -2490,7 +2899,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 两个正态总体均值的比较\n\n两个正态总体均值的比较的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了两个正态总体均值的比较的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-137"
+    ]
   },
   {
     "id": "ps-lesson-093",
@@ -2517,7 +2930,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单个总体比例的检验\n\n单个总体比例的检验的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了单个总体比例的检验的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-138"
+    ]
   },
   {
     "id": "ps-lesson-094",
@@ -2544,7 +2961,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 两个总体比例的检验\n\n两个总体比例的检验的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了两个总体比例的检验的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-139"
+    ]
   },
   {
     "id": "ps-lesson-095",
@@ -2571,7 +2992,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 卡方拟合优度检验\n\n卡方拟合优度检验的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了卡方拟合优度检验的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-140"
+    ]
   },
   {
     "id": "ps-lesson-096",
@@ -2598,7 +3023,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 卡方独立性检验\n\n卡方独立性检验的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了卡方独立性检验的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-141"
+    ]
   },
   {
     "id": "ps-lesson-097",
@@ -2625,7 +3054,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单侧检验与双侧检验\n\n单侧检验与双侧检验的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了单侧检验与双侧检验的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-142"
+    ]
   },
   {
     "id": "ps-lesson-098",
@@ -2647,7 +3080,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方差分析的基本思想\n\n方差分析的基本思想的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了方差分析的基本思想的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-143",
+      "ps-kp-144"
+    ]
   },
   {
     "id": "ps-lesson-099",
@@ -2669,7 +3107,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单因素方差分析\n\n单因素方差分析的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了单因素方差分析的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-145",
+      "ps-kp-146"
+    ]
   },
   {
     "id": "ps-lesson-100",
@@ -2690,7 +3133,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 总平方和分解\n\n总平方和分解的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了总平方和分解的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-147"
+    ]
   },
   {
     "id": "ps-lesson-101",
@@ -2711,7 +3158,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 方差分析表\n\n方差分析表的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了方差分析表的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-148"
+    ]
   },
   {
     "id": "ps-lesson-102",
@@ -2732,7 +3183,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 相关分析的概念\n\n相关分析的概念的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了相关分析的概念的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-149"
+    ]
   },
   {
     "id": "ps-lesson-103",
@@ -2754,7 +3209,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 皮尔逊相关系数\n\n皮尔逊相关系数的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了皮尔逊相关系数的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-150",
+      "ps-kp-151"
+    ]
   },
   {
     "id": "ps-lesson-104",
@@ -2776,7 +3236,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 一元线性回归模型\n\n一元线性回归模型的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了一元线性回归模型的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-152",
+      "ps-kp-153"
+    ]
   },
   {
     "id": "ps-lesson-105",
@@ -2798,7 +3263,12 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 最小二乘估计\n\n最小二乘估计的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了最小二乘估计的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-154",
+      "ps-kp-155"
+    ]
   },
   {
     "id": "ps-lesson-106",
@@ -2819,7 +3289,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 回归方程的显著性检验\n\n回归方程的显著性检验的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了回归方程的显著性检验的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-156"
+    ]
   },
   {
     "id": "ps-lesson-107",
@@ -2840,7 +3314,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 决定系数R²\n\n决定系数R²的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了决定系数R²的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-157"
+    ]
   },
   {
     "id": "ps-lesson-108",
@@ -2867,7 +3345,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率统计总复习\n\n概率统计总复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了概率统计总复习的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-158"
+    ]
   },
   {
     "id": "ps-lesson-109",
@@ -2894,7 +3376,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率计算核心方法\n\n概率计算核心方法的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了概率计算核心方法的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-159"
+    ]
   },
   {
     "id": "ps-lesson-110",
@@ -2921,7 +3407,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分布与数字特征复习\n\n分布与数字特征复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了分布与数字特征复习的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-160"
+    ]
   },
   {
     "id": "ps-lesson-111",
@@ -2948,7 +3438,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 大数定律与中心极限定理复习\n\n大数定律与中心极限定理复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了大数定律与中心极限定理复习的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-161"
+    ]
   },
   {
     "id": "ps-lesson-112",
@@ -2975,7 +3469,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 参数估计复习\n\n参数估计复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了参数估计复习的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-162"
+    ]
   },
   {
     "id": "ps-lesson-113",
@@ -3002,7 +3500,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 假设检验复习\n\n假设检验复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了假设检验复习的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-163"
+    ]
   },
   {
     "id": "ps-lesson-114",
@@ -3029,7 +3531,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 回归分析复习\n\n回归分析复习的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了回归分析复习的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-164"
+    ]
   },
   {
     "id": "ps-lesson-115",
@@ -3056,7 +3562,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合模拟考试一\n\n综合模拟考试一的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了综合模拟考试一的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-165"
+    ]
   },
   {
     "id": "ps-lesson-116",
@@ -3083,7 +3593,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合模拟考试二\n\n综合模拟考试二的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了综合模拟考试二的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-166"
+    ]
   },
   {
     "id": "ps-lesson-117",
@@ -3110,7 +3624,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考研概率统计重点\n\n考研概率统计重点的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了考研概率统计重点的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-167"
+    ]
   },
   {
     "id": "ps-lesson-118",
@@ -3137,7 +3655,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺策略\n\n考前冲刺策略的讲义内容。\n\n## 要点\n\n- 核心概念\n- 计算方法\n- 典型例题\n\n## 总结\n\n本章介绍了考前冲刺策略的核心知识。",
+    "knowledgePoints": [
+      "ps-kp-168"
+    ]
   },
   {
     "id": "ps-lesson-119",
@@ -3158,7 +3680,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率统计在数据科学中的角色\n\n概率统计在数据科学中的角色的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0119"
+    ]
   },
   {
     "id": "ps-lesson-120",
@@ -3179,7 +3705,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率统计与企业决策\n\n概率统计与企业决策的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0120"
+    ]
   },
   {
     "id": "ps-lesson-121",
@@ -3200,7 +3730,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 描述统计与推断统计\n\n描述统计与推断统计的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0121"
+    ]
   },
   {
     "id": "ps-lesson-122",
@@ -3221,7 +3755,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率的性质与运算\n\n概率的性质与运算的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0122"
+    ]
   },
   {
     "id": "ps-lesson-123",
@@ -3242,7 +3780,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 加法公式\n\n加法公式的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0123"
+    ]
   },
   {
     "id": "ps-lesson-124",
@@ -3263,7 +3805,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 排列组合与概率\n\n排列组合与概率的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0124"
+    ]
   },
   {
     "id": "ps-lesson-125",
@@ -3284,7 +3830,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 不放回抽样概率\n\n不放回抽样概率的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0125"
+    ]
   },
   {
     "id": "ps-lesson-126",
@@ -3305,7 +3855,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 放回抽样概率\n\n放回抽样概率的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0126"
+    ]
   },
   {
     "id": "ps-lesson-127",
@@ -3326,7 +3880,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件概率的推广\n\n条件概率的推广的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0127"
+    ]
   },
   {
     "id": "ps-lesson-128",
@@ -3347,7 +3905,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 贝叶斯公式的应用场景\n\n贝叶斯公式的应用场景的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0128"
+    ]
   },
   {
     "id": "ps-lesson-129",
@@ -3368,7 +3930,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 产品质检中的概率\n\n产品质检中的概率的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0129"
+    ]
   },
   {
     "id": "ps-lesson-130",
@@ -3389,7 +3955,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 可靠性中的概率\n\n可靠性中的概率的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0130"
+    ]
   },
   {
     "id": "ps-lesson-131",
@@ -3410,7 +3980,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 离散随机变量分布列求解\n\n离散随机变量分布列求解的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0131"
+    ]
   },
   {
     "id": "ps-lesson-132",
@@ -3431,7 +4005,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 连续随机变量概率计算\n\n连续随机变量概率计算的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0132"
+    ]
   },
   {
     "id": "ps-lesson-133",
@@ -3452,7 +4030,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 分位数与分位点\n\n分位数与分位点的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0133"
+    ]
   },
   {
     "id": "ps-lesson-134",
@@ -3473,7 +4055,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 随机变量函数的期望\n\n随机变量函数的期望的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0134"
+    ]
   },
   {
     "id": "ps-lesson-135",
@@ -3494,7 +4080,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二维均匀分布\n\n二维均匀分布的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0135"
+    ]
   },
   {
     "id": "ps-lesson-136",
@@ -3515,7 +4105,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二维正态分布\n\n二维正态分布的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0136"
+    ]
   },
   {
     "id": "ps-lesson-137",
@@ -3536,7 +4130,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 边际分布的计算\n\n边际分布的计算的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0137"
+    ]
   },
   {
     "id": "ps-lesson-138",
@@ -3557,7 +4155,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件期望\n\n条件期望的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0138"
+    ]
   },
   {
     "id": "ps-lesson-139",
@@ -3578,7 +4180,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 期望与方差的综合计算\n\n期望与方差的综合计算的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0139"
+    ]
   },
   {
     "id": "ps-lesson-140",
@@ -3599,7 +4205,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 协方差矩阵\n\n协方差矩阵的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0140"
+    ]
   },
   {
     "id": "ps-lesson-141",
@@ -3620,7 +4230,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件期望与条件方差\n\n条件期望与条件方差的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0141"
+    ]
   },
   {
     "id": "ps-lesson-142",
@@ -3641,7 +4255,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩母函数的应用\n\n矩母函数的应用的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0142"
+    ]
   },
   {
     "id": "ps-lesson-143",
@@ -3662,7 +4280,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 二项分布的应用场景\n\n二项分布的应用场景的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0143"
+    ]
   },
   {
     "id": "ps-lesson-144",
@@ -3683,7 +4305,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泊松分布逼近二项分布\n\n泊松分布逼近二项分布的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0144"
+    ]
   },
   {
     "id": "ps-lesson-145",
@@ -3704,7 +4330,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 几何分布与无记忆性\n\n几何分布与无记忆性的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0145"
+    ]
   },
   {
     "id": "ps-lesson-146",
@@ -3725,7 +4355,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 超几何分布与二项分布关系\n\n超几何分布与二项分布关系的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0146"
+    ]
   },
   {
     "id": "ps-lesson-147",
@@ -3746,7 +4380,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正态分布的概率计算\n\n正态分布的概率计算的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0147"
+    ]
   },
   {
     "id": "ps-lesson-148",
@@ -3767,7 +4405,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正态分布分位数\n\n正态分布分位数的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0148"
+    ]
   },
   {
     "id": "ps-lesson-149",
@@ -3788,7 +4430,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指数分布与可靠性\n\n指数分布与可靠性的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0149"
+    ]
   },
   {
     "id": "ps-lesson-150",
@@ -3809,7 +4455,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 均匀分布的应用\n\n均匀分布的应用的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0150"
+    ]
   },
   {
     "id": "ps-lesson-151",
@@ -3830,7 +4480,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 卡方分布的性质\n\n卡方分布的性质的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0151"
+    ]
   },
   {
     "id": "ps-lesson-152",
@@ -3851,7 +4505,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# t分布的性质\n\nt分布的性质的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0152"
+    ]
   },
   {
     "id": "ps-lesson-153",
@@ -3872,7 +4530,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# F分布的性质\n\nF分布的性质的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0153"
+    ]
   },
   {
     "id": "ps-lesson-154",
@@ -3893,7 +4555,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 大数定律模拟验证\n\n大数定律模拟验证的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0154"
+    ]
   },
   {
     "id": "ps-lesson-155",
@@ -3914,7 +4580,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 中心极限定理模拟\n\n中心极限定理模拟的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0155"
+    ]
   },
   {
     "id": "ps-lesson-156",
@@ -3935,7 +4605,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# CLT在质量控制中的应用\n\nCLT在质量控制中的应用的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0156"
+    ]
   },
   {
     "id": "ps-lesson-157",
@@ -3956,7 +4630,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常见统计量及其分布\n\n常见统计量及其分布的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0157"
+    ]
   },
   {
     "id": "ps-lesson-158",
@@ -3977,7 +4655,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正态总体的抽样分布\n\n正态总体的抽样分布的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0158"
+    ]
   },
   {
     "id": "ps-lesson-159",
@@ -3998,7 +4680,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# t分布与卡方分布的关系\n\nt分布与卡方分布的关系的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0159"
+    ]
   },
   {
     "id": "ps-lesson-160",
@@ -4019,7 +4705,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# F分布与t分布的关系\n\nF分布与t分布的关系的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0160"
+    ]
   },
   {
     "id": "ps-lesson-161",
@@ -4040,7 +4730,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 矩估计的步骤与例子\n\n矩估计的步骤与例子的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0161"
+    ]
   },
   {
     "id": "ps-lesson-162",
@@ -4061,7 +4755,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# MLE的步骤与例子\n\nMLE的步骤与例子的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0162"
+    ]
   },
   {
     "id": "ps-lesson-163",
@@ -4082,7 +4780,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 指数分布的矩估计\n\n指数分布的矩估计的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0163"
+    ]
   },
   {
     "id": "ps-lesson-164",
@@ -4103,7 +4805,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 正态分布的MLE\n\n正态分布的MLE的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0164"
+    ]
   },
   {
     "id": "ps-lesson-165",
@@ -4124,7 +4830,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 贝叶斯估计简介\n\n贝叶斯估计简介的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0165"
+    ]
   },
   {
     "id": "ps-lesson-166",
@@ -4145,7 +4855,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 单侧检验与双侧检验\n\n单侧检验与双侧检验的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0166"
+    ]
   },
   {
     "id": "ps-lesson-167",
@@ -4166,7 +4880,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 均值差异的检验\n\n均值差异的检验的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0167"
+    ]
   },
   {
     "id": "ps-lesson-168",
@@ -4187,7 +4905,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 配对数据的检验\n\n配对数据的检验的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0168"
+    ]
   },
   {
     "id": "ps-lesson-169",
@@ -4208,7 +4930,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 比例差异的检验\n\n比例差异的检验的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0169"
+    ]
   },
   {
     "id": "ps-lesson-170",
@@ -4229,7 +4955,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 卡方检验的计算\n\n卡方检验的计算的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0170"
+    ]
   },
   {
     "id": "ps-lesson-171",
@@ -4250,7 +4980,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 检验功效计算\n\n检验功效计算的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0171"
+    ]
   },
   {
     "id": "ps-lesson-172",
@@ -4271,7 +5005,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 双因素方差分析简介\n\n双因素方差分析简介的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0172"
+    ]
   },
   {
     "id": "ps-lesson-173",
@@ -4292,7 +5030,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 交互作用的概念\n\n交互作用的概念的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0173"
+    ]
   },
   {
     "id": "ps-lesson-174",
@@ -4313,7 +5055,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 相关与因果的区别\n\n相关与因果的区别的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0174"
+    ]
   },
   {
     "id": "ps-lesson-175",
@@ -4334,7 +5080,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 多元回归简介\n\n多元回归简介的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0175"
+    ]
   },
   {
     "id": "ps-lesson-176",
@@ -4355,7 +5105,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 回归诊断\n\n回归诊断的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0176"
+    ]
   },
   {
     "id": "ps-lesson-177",
@@ -4376,7 +5130,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 概率统计公式总结\n\n概率统计公式总结的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0177"
+    ]
   },
   {
     "id": "ps-lesson-178",
@@ -4397,7 +5155,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常见分布对照表\n\n常见分布对照表的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0178"
+    ]
   },
   {
     "id": "ps-lesson-179",
@@ -4418,7 +5180,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 统计方法选择指南\n\n统计方法选择指南的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0179"
+    ]
   },
   {
     "id": "ps-lesson-180",
@@ -4439,7 +5205,11 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 综合复习模拟测试三\n\n综合复习模拟测试三的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0180"
+    ]
   },
   {
     "id": "ps-lesson-181",
@@ -4460,6 +5230,10 @@
       "概率统计"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考研概统大题精讲\n\n考研概统大题精讲的讲义内容。",
+    "knowledgePoints": [
+      "ps-kp-0181"
+    ]
   }
 ]

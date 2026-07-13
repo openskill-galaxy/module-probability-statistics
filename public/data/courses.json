@@ -25,7 +25,14 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-001",
+      "ps-lesson-002",
+      "ps-lesson-003",
+      "ps-lesson-004"
+    ],
+    "summary": "了解概率论与数理统计的学科体系、发展历史、应用领域与学习方法。"
   },
   {
     "id": "ps-course-02",
@@ -57,7 +64,18 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-005",
+      "ps-lesson-006",
+      "ps-lesson-007",
+      "ps-lesson-008",
+      "ps-lesson-009",
+      "ps-lesson-010",
+      "ps-lesson-011",
+      "ps-lesson-012"
+    ],
+    "summary": "随机试验、样本空间、随机事件、事件关系与运算、概率公理、古典概型、几何概型。"
   },
   {
     "id": "ps-course-03",
@@ -87,7 +105,16 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-013",
+      "ps-lesson-014",
+      "ps-lesson-015",
+      "ps-lesson-016",
+      "ps-lesson-017",
+      "ps-lesson-018"
+    ],
+    "summary": "条件概率定义、乘法公式、全概率公式、贝叶斯公式、事件独立性、伯努利试验。"
   },
   {
     "id": "ps-course-04",
@@ -118,7 +145,17 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-019",
+      "ps-lesson-020",
+      "ps-lesson-021",
+      "ps-lesson-022",
+      "ps-lesson-023",
+      "ps-lesson-024",
+      "ps-lesson-025"
+    ],
+    "summary": "随机变量概念、分布函数、离散型随机变量、连续型随机变量、概率密度函数。"
   },
   {
     "id": "ps-course-05",
@@ -149,7 +186,17 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-026",
+      "ps-lesson-027",
+      "ps-lesson-028",
+      "ps-lesson-029",
+      "ps-lesson-030",
+      "ps-lesson-031",
+      "ps-lesson-032"
+    ],
+    "summary": "二维随机变量、联合分布函数、边缘分布、条件分布、随机变量的独立性。"
   },
   {
     "id": "ps-course-06",
@@ -183,7 +230,20 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-033",
+      "ps-lesson-034",
+      "ps-lesson-035",
+      "ps-lesson-036",
+      "ps-lesson-037",
+      "ps-lesson-038",
+      "ps-lesson-039",
+      "ps-lesson-040",
+      "ps-lesson-041",
+      "ps-lesson-042"
+    ],
+    "summary": "数学期望、方差、标准差、协方差、相关系数、矩、切比雪夫不等式。"
   },
   {
     "id": "ps-course-07",
@@ -213,7 +273,16 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-043",
+      "ps-lesson-044",
+      "ps-lesson-045",
+      "ps-lesson-046",
+      "ps-lesson-047",
+      "ps-lesson-048"
+    ],
+    "summary": "二项分布、泊松分布、几何分布、超几何分布及其性质和应用。"
   },
   {
     "id": "ps-course-08",
@@ -245,7 +314,18 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-049",
+      "ps-lesson-050",
+      "ps-lesson-051",
+      "ps-lesson-052",
+      "ps-lesson-053",
+      "ps-lesson-054",
+      "ps-lesson-055",
+      "ps-lesson-056"
+    ],
+    "summary": "均匀分布、指数分布、正态分布、标准正态分布、分布、t分布、F分布。"
   },
   {
     "id": "ps-course-09",
@@ -277,7 +357,18 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-057",
+      "ps-lesson-058",
+      "ps-lesson-059",
+      "ps-lesson-060",
+      "ps-lesson-061",
+      "ps-lesson-062",
+      "ps-lesson-063",
+      "ps-lesson-064"
+    ],
+    "summary": "切比雪夫不等式、大数定律、中心极限定理及其应用。"
   },
   {
     "id": "ps-course-10",
@@ -309,7 +400,18 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-065",
+      "ps-lesson-066",
+      "ps-lesson-067",
+      "ps-lesson-068",
+      "ps-lesson-069",
+      "ps-lesson-070",
+      "ps-lesson-071",
+      "ps-lesson-072"
+    ],
+    "summary": "总体与样本、统计量、抽样分布、卡方分布、t分布、F分布。"
   },
   {
     "id": "ps-course-11",
@@ -345,7 +447,22 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-073",
+      "ps-lesson-074",
+      "ps-lesson-075",
+      "ps-lesson-076",
+      "ps-lesson-077",
+      "ps-lesson-078",
+      "ps-lesson-079",
+      "ps-lesson-080",
+      "ps-lesson-081",
+      "ps-lesson-082",
+      "ps-lesson-083",
+      "ps-lesson-084"
+    ],
+    "summary": "点估计(矩估计、最大似然估计)、估计量评价标准、区间估计、置信区间。"
   },
   {
     "id": "ps-course-12",
@@ -382,7 +499,23 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-085",
+      "ps-lesson-086",
+      "ps-lesson-087",
+      "ps-lesson-088",
+      "ps-lesson-089",
+      "ps-lesson-090",
+      "ps-lesson-091",
+      "ps-lesson-092",
+      "ps-lesson-093",
+      "ps-lesson-094",
+      "ps-lesson-095",
+      "ps-lesson-096",
+      "ps-lesson-097"
+    ],
+    "summary": "假设检验的基本思想、单总体均值检验、双总体均值检验、比例检验、卡方检验、P值。"
   },
   {
     "id": "ps-course-13",
@@ -416,7 +549,20 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-098",
+      "ps-lesson-099",
+      "ps-lesson-100",
+      "ps-lesson-101",
+      "ps-lesson-102",
+      "ps-lesson-103",
+      "ps-lesson-104",
+      "ps-lesson-105",
+      "ps-lesson-106",
+      "ps-lesson-107"
+    ],
+    "summary": "单因素方差分析、相关分析、一元线性回归、最小二乘估计、回归检验。"
   },
   {
     "id": "ps-course-14",
@@ -451,6 +597,20 @@
       "能用分布建模",
       "具备统计推断能力"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ps-lesson-108",
+      "ps-lesson-109",
+      "ps-lesson-110",
+      "ps-lesson-111",
+      "ps-lesson-112",
+      "ps-lesson-113",
+      "ps-lesson-114",
+      "ps-lesson-115",
+      "ps-lesson-116",
+      "ps-lesson-117",
+      "ps-lesson-118"
+    ],
+    "summary": "系统复习规划、重点题型突破、知识点串联、典型题精讲与模拟测试。"
   }
 ]
