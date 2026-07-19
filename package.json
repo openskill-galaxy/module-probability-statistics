@@ -1,8 +1,8 @@
 {
-  "name": "openskill-module-probability-statistics",
+  "name": "openskill-module-template",
   "version": "1.0.0",
   "private": true,
-  "description": "OpenSkill Galaxy 概率论与数理统计学习训练模块：概率、随机变量、分布、参数估计、假设检验、方差分析与统计建模。",
+  "description": "OpenSkill Galaxy reusable static learning module template.",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,11 +10,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "appwrite": "^26.2.0",
+    "fuse.js": "^7.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
-    "zustand": "^4.5.5",
-    "fuse.js": "^7.0.0"
+    "zustand": "^4.5.5"
   },
   "devDependencies": {
     "@types/node": "^22.5.0",
