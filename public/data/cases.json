@@ -5,11 +5,7 @@
     "description": "通过古典概型计算掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002282",
-      "ps-q-001041",
-      "ps-q-000378"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "古典概型计算"
     ],
@@ -29,11 +25,7 @@
     "description": "通过几何概型计算掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001453",
-      "ps-q-001743",
-      "ps-q-001867"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何概型计算"
     ],
@@ -53,11 +45,7 @@
     "description": "通过条件概率掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000721",
-      "ps-q-003429",
-      "ps-q-002551"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件概率"
     ],
@@ -77,11 +65,7 @@
     "description": "通过全概率公式掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001427",
-      "ps-q-001691",
-      "ps-q-003614"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全概率公式"
     ],
@@ -101,11 +85,7 @@
     "description": "通过贝叶斯公式掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002833",
-      "ps-q-002662",
-      "ps-q-000302"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "贝叶斯公式"
     ],
@@ -125,11 +105,7 @@
     "description": "通过事件独立性判断掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001690",
-      "ps-q-000267",
-      "ps-q-003448"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "事件独立性判断"
     ],
@@ -149,11 +125,7 @@
     "description": "通过伯努利试验掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000121",
-      "ps-q-000506",
-      "ps-q-003005"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "伯努利试验"
     ],
@@ -173,11 +145,7 @@
     "description": "通过二项分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003434",
-      "ps-q-000047",
-      "ps-q-003078"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二项分布"
     ],
@@ -197,11 +165,7 @@
     "description": "通过泊松分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002893",
-      "ps-q-000460",
-      "ps-q-002862"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "泊松分布"
     ],
@@ -221,11 +185,7 @@
     "description": "通过几何分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002993",
-      "ps-q-003116",
-      "ps-q-002577"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何分布"
     ],
@@ -245,11 +205,7 @@
     "description": "通过正态分布标准化掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000331",
-      "ps-q-002009",
-      "ps-q-000099"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "正态分布标准化"
     ],
@@ -269,11 +225,7 @@
     "description": "通过分布函数掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001931",
-      "ps-q-000803",
-      "ps-q-002745"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布函数"
     ],
@@ -293,11 +245,7 @@
     "description": "通过概率密度计算掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000761",
-      "ps-q-000229",
-      "ps-q-003458"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "概率密度计算"
     ],
@@ -317,11 +265,7 @@
     "description": "通过二维随机变量掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002651",
-      "ps-q-002250",
-      "ps-q-001434"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二维随机变量"
     ],
@@ -341,11 +285,7 @@
     "description": "通过边缘分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001759",
-      "ps-q-002207",
-      "ps-q-003461"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边缘分布"
     ],
@@ -365,11 +305,7 @@
     "description": "通过条件分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001299",
-      "ps-q-001307",
-      "ps-q-003630"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件分布"
     ],
@@ -389,11 +325,7 @@
     "description": "通过数学期望掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000221",
-      "ps-q-000472",
-      "ps-q-002682"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数学期望"
     ],
@@ -413,11 +345,7 @@
     "description": "通过方差掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002208",
-      "ps-q-002689",
-      "ps-q-003599"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差"
     ],
@@ -437,11 +365,7 @@
     "description": "通过协方差掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000925",
-      "ps-q-000747",
-      "ps-q-002963"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "协方差"
     ],
@@ -461,11 +385,7 @@
     "description": "通过相关系数掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001862",
-      "ps-q-000065",
-      "ps-q-003172"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "相关系数"
     ],
@@ -485,11 +405,7 @@
     "description": "通过大数定律理解掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001685",
-      "ps-q-003342",
-      "ps-q-001404"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大数定律理解"
     ],
@@ -509,11 +425,7 @@
     "description": "通过中心极限定理应用掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002650",
-      "ps-q-001959",
-      "ps-q-003135"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "中心极限定理应用"
     ],
@@ -533,11 +445,7 @@
     "description": "通过矩估计掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000355",
-      "ps-q-000456",
-      "ps-q-002788"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "矩估计"
     ],
@@ -557,11 +465,7 @@
     "description": "通过最大似然估计掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003680",
-      "ps-q-002255",
-      "ps-q-000410"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最大似然估计"
     ],
@@ -581,11 +485,7 @@
     "description": "通过置信区间掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002961",
-      "ps-q-001350",
-      "ps-q-002594"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "置信区间"
     ],
@@ -605,11 +505,7 @@
     "description": "通过假设检验掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002403",
-      "ps-q-001370",
-      "ps-q-000506"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "假设检验"
     ],
@@ -629,11 +525,7 @@
     "description": "通过P值解释掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002010",
-      "ps-q-001092",
-      "ps-q-001985"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "P值解释"
     ],
@@ -653,11 +545,7 @@
     "description": "通过卡方检验掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003088",
-      "ps-q-000600",
-      "ps-q-002013"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "卡方检验"
     ],
@@ -677,11 +565,7 @@
     "description": "通过方差分析掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001880",
-      "ps-q-002207",
-      "ps-q-000887"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差分析"
     ],
@@ -701,11 +585,7 @@
     "description": "通过回归分析掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000151",
-      "ps-q-003294",
-      "ps-q-000322"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "回归分析"
     ],
@@ -725,11 +605,7 @@
     "description": "通过数据分析中的概率统计掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003070",
-      "ps-q-000257",
-      "ps-q-002025"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析中的概率统计"
     ],
@@ -749,11 +625,7 @@
     "description": "通过考研基础综合题掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003155",
-      "ps-q-001361",
-      "ps-q-000011"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础综合题"
     ],
@@ -773,11 +645,7 @@
     "description": "通过古典概型计算掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003694",
-      "ps-q-002731",
-      "ps-q-003402"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "古典概型计算"
     ],
@@ -797,11 +665,7 @@
     "description": "通过几何概型计算掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003616",
-      "ps-q-001473",
-      "ps-q-003295"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何概型计算"
     ],
@@ -821,11 +685,7 @@
     "description": "通过条件概率掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001964",
-      "ps-q-003482",
-      "ps-q-002709"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件概率"
     ],
@@ -845,11 +705,7 @@
     "description": "通过全概率公式掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001255",
-      "ps-q-002234",
-      "ps-q-003564"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全概率公式"
     ],
@@ -869,11 +725,7 @@
     "description": "通过贝叶斯公式掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000019",
-      "ps-q-002493",
-      "ps-q-001079"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "贝叶斯公式"
     ],
@@ -893,11 +745,7 @@
     "description": "通过事件独立性判断掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002254",
-      "ps-q-000213",
-      "ps-q-000172"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "事件独立性判断"
     ],
@@ -917,11 +765,7 @@
     "description": "通过伯努利试验掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000546",
-      "ps-q-000089",
-      "ps-q-002803"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "伯努利试验"
     ],
@@ -941,11 +785,7 @@
     "description": "通过二项分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002500",
-      "ps-q-003403",
-      "ps-q-002369"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二项分布"
     ],
@@ -965,11 +805,7 @@
     "description": "通过泊松分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001966",
-      "ps-q-001497",
-      "ps-q-000392"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "泊松分布"
     ],
@@ -989,11 +825,7 @@
     "description": "通过几何分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001117",
-      "ps-q-001817",
-      "ps-q-000031"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何分布"
     ],
@@ -1013,11 +845,7 @@
     "description": "通过正态分布标准化掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002815",
-      "ps-q-000409",
-      "ps-q-001005"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "正态分布标准化"
     ],
@@ -1037,11 +865,7 @@
     "description": "通过分布函数掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002784",
-      "ps-q-000674",
-      "ps-q-000547"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布函数"
     ],
@@ -1061,11 +885,7 @@
     "description": "通过概率密度计算掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002074",
-      "ps-q-000509",
-      "ps-q-001326"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "概率密度计算"
     ],
@@ -1085,11 +905,7 @@
     "description": "通过二维随机变量掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002270",
-      "ps-q-003403",
-      "ps-q-000236"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二维随机变量"
     ],
@@ -1109,11 +925,7 @@
     "description": "通过边缘分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000044",
-      "ps-q-000948",
-      "ps-q-001386"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边缘分布"
     ],
@@ -1133,11 +945,7 @@
     "description": "通过条件分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003192",
-      "ps-q-000896",
-      "ps-q-000538"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件分布"
     ],
@@ -1157,11 +965,7 @@
     "description": "通过数学期望掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002867",
-      "ps-q-000432",
-      "ps-q-002678"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数学期望"
     ],
@@ -1181,11 +985,7 @@
     "description": "通过方差掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003698",
-      "ps-q-001661",
-      "ps-q-000908"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差"
     ],
@@ -1205,11 +1005,7 @@
     "description": "通过协方差掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001530",
-      "ps-q-002914",
-      "ps-q-002322"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "协方差"
     ],
@@ -1229,11 +1025,7 @@
     "description": "通过相关系数掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002392",
-      "ps-q-003551",
-      "ps-q-002513"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "相关系数"
     ],
@@ -1253,11 +1045,7 @@
     "description": "通过大数定律理解掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001543",
-      "ps-q-000772",
-      "ps-q-001540"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大数定律理解"
     ],
@@ -1277,11 +1065,7 @@
     "description": "通过中心极限定理应用掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001438",
-      "ps-q-003208",
-      "ps-q-001527"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "中心极限定理应用"
     ],
@@ -1301,11 +1085,7 @@
     "description": "通过矩估计掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002805",
-      "ps-q-001137",
-      "ps-q-000718"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "矩估计"
     ],
@@ -1325,11 +1105,7 @@
     "description": "通过最大似然估计掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001279",
-      "ps-q-002703",
-      "ps-q-003038"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最大似然估计"
     ],
@@ -1349,11 +1125,7 @@
     "description": "通过置信区间掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001919",
-      "ps-q-001718",
-      "ps-q-002059"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "置信区间"
     ],
@@ -1373,11 +1145,7 @@
     "description": "通过假设检验掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002991",
-      "ps-q-001223",
-      "ps-q-003400"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "假设检验"
     ],
@@ -1397,11 +1165,7 @@
     "description": "通过P值解释掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001761",
-      "ps-q-003458",
-      "ps-q-000853"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "P值解释"
     ],
@@ -1421,11 +1185,7 @@
     "description": "通过卡方检验掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002197",
-      "ps-q-000949",
-      "ps-q-002467"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "卡方检验"
     ],
@@ -1445,11 +1205,7 @@
     "description": "通过方差分析掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000775",
-      "ps-q-000361",
-      "ps-q-002242"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差分析"
     ],
@@ -1469,11 +1225,7 @@
     "description": "通过回归分析掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000646",
-      "ps-q-000431",
-      "ps-q-001327"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "回归分析"
     ],
@@ -1493,11 +1245,7 @@
     "description": "通过数据分析中的概率统计掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001026",
-      "ps-q-003650",
-      "ps-q-000472"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析中的概率统计"
     ],
@@ -1517,11 +1265,7 @@
     "description": "通过考研基础综合题掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002635",
-      "ps-q-000067",
-      "ps-q-002638"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础综合题"
     ],
@@ -1541,11 +1285,7 @@
     "description": "通过古典概型计算掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000076",
-      "ps-q-000930",
-      "ps-q-001538"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "古典概型计算"
     ],
@@ -1565,11 +1305,7 @@
     "description": "通过几何概型计算掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001852",
-      "ps-q-001584",
-      "ps-q-000964"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何概型计算"
     ],
@@ -1589,11 +1325,7 @@
     "description": "通过条件概率掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002452",
-      "ps-q-002086",
-      "ps-q-000396"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件概率"
     ],
@@ -1613,11 +1345,7 @@
     "description": "通过全概率公式掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002631",
-      "ps-q-000310",
-      "ps-q-003443"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全概率公式"
     ],
@@ -1637,11 +1365,7 @@
     "description": "通过贝叶斯公式掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003671",
-      "ps-q-002365",
-      "ps-q-002681"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "贝叶斯公式"
     ],
@@ -1661,11 +1385,7 @@
     "description": "通过事件独立性判断掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000968",
-      "ps-q-000397",
-      "ps-q-001431"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "事件独立性判断"
     ],
@@ -1685,11 +1405,7 @@
     "description": "通过伯努利试验掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001130",
-      "ps-q-002256",
-      "ps-q-002149"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "伯努利试验"
     ],
@@ -1709,11 +1425,7 @@
     "description": "通过二项分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000741",
-      "ps-q-000027",
-      "ps-q-002803"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二项分布"
     ],
@@ -1733,11 +1445,7 @@
     "description": "通过泊松分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-002244",
-      "ps-q-002018",
-      "ps-q-003267"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "泊松分布"
     ],
@@ -1757,11 +1465,7 @@
     "description": "通过几何分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000569",
-      "ps-q-003423",
-      "ps-q-000903"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何分布"
     ],
@@ -1781,11 +1485,7 @@
     "description": "通过正态分布标准化掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003470",
-      "ps-q-000539",
-      "ps-q-002446"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "正态分布标准化"
     ],
@@ -1805,11 +1505,7 @@
     "description": "通过分布函数掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003568",
-      "ps-q-001067",
-      "ps-q-003678"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布函数"
     ],
@@ -1829,11 +1525,7 @@
     "description": "通过概率密度计算掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-001826",
-      "ps-q-003018",
-      "ps-q-000925"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "概率密度计算"
     ],
@@ -1853,11 +1545,7 @@
     "description": "通过二维随机变量掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000931",
-      "ps-q-000257",
-      "ps-q-002818"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二维随机变量"
     ],
@@ -1877,11 +1565,7 @@
     "description": "通过边缘分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-003642",
-      "ps-q-002673",
-      "ps-q-000770"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边缘分布"
     ],
@@ -1901,11 +1585,7 @@
     "description": "通过条件分布掌握概率统计方法",
     "difficulty": "easy",
     "duration": 30,
-    "relatedQuestionIds": [
-      "ps-q-000912",
-      "ps-q-001206",
-      "ps-q-002397"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件分布"
     ],
@@ -1925,11 +1605,7 @@
     "description": "通过数学期望掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002526",
-      "ps-q-001385",
-      "ps-q-001504"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数学期望"
     ],
@@ -1949,11 +1625,7 @@
     "description": "通过方差掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002211",
-      "ps-q-002279",
-      "ps-q-002701"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差"
     ],
@@ -1973,11 +1645,7 @@
     "description": "通过协方差掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002819",
-      "ps-q-003425",
-      "ps-q-002157"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "协方差"
     ],
@@ -1997,11 +1665,7 @@
     "description": "通过相关系数掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-003536",
-      "ps-q-003113",
-      "ps-q-003453"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "相关系数"
     ],
@@ -2021,11 +1685,7 @@
     "description": "通过大数定律理解掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000198",
-      "ps-q-000972",
-      "ps-q-001089"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大数定律理解"
     ],
@@ -2045,11 +1705,7 @@
     "description": "通过中心极限定理应用掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002485",
-      "ps-q-000199",
-      "ps-q-001187"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "中心极限定理应用"
     ],
@@ -2069,11 +1725,7 @@
     "description": "通过矩估计掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000863",
-      "ps-q-000230",
-      "ps-q-003380"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "矩估计"
     ],
@@ -2093,11 +1745,7 @@
     "description": "通过最大似然估计掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001728",
-      "ps-q-002820",
-      "ps-q-000407"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最大似然估计"
     ],
@@ -2117,11 +1765,7 @@
     "description": "通过置信区间掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002073",
-      "ps-q-002552",
-      "ps-q-003257"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "置信区间"
     ],
@@ -2141,11 +1785,7 @@
     "description": "通过假设检验掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002235",
-      "ps-q-000341",
-      "ps-q-001246"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "假设检验"
     ],
@@ -2165,11 +1805,7 @@
     "description": "通过P值解释掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001095",
-      "ps-q-000276",
-      "ps-q-002983"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "P值解释"
     ],
@@ -2189,11 +1825,7 @@
     "description": "通过卡方检验掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001668",
-      "ps-q-002337",
-      "ps-q-003094"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "卡方检验"
     ],
@@ -2213,11 +1845,7 @@
     "description": "通过方差分析掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000833",
-      "ps-q-002592",
-      "ps-q-000030"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差分析"
     ],
@@ -2237,11 +1865,7 @@
     "description": "通过回归分析掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002935",
-      "ps-q-003470",
-      "ps-q-002672"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "回归分析"
     ],
@@ -2261,11 +1885,7 @@
     "description": "通过数据分析中的概率统计掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001446",
-      "ps-q-001511",
-      "ps-q-001740"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析中的概率统计"
     ],
@@ -2285,11 +1905,7 @@
     "description": "通过考研基础综合题掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002890",
-      "ps-q-001070",
-      "ps-q-000807"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础综合题"
     ],
@@ -2309,11 +1925,7 @@
     "description": "通过古典概型计算掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001693",
-      "ps-q-003174",
-      "ps-q-000127"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "古典概型计算"
     ],
@@ -2333,11 +1945,7 @@
     "description": "通过几何概型计算掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002131",
-      "ps-q-000582",
-      "ps-q-000724"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何概型计算"
     ],
@@ -2357,11 +1965,7 @@
     "description": "通过条件概率掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001791",
-      "ps-q-001613",
-      "ps-q-002122"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件概率"
     ],
@@ -2381,11 +1985,7 @@
     "description": "通过全概率公式掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002949",
-      "ps-q-002663",
-      "ps-q-003528"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全概率公式"
     ],
@@ -2405,11 +2005,7 @@
     "description": "通过贝叶斯公式掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001293",
-      "ps-q-001706",
-      "ps-q-001783"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "贝叶斯公式"
     ],
@@ -2429,11 +2025,7 @@
     "description": "通过事件独立性判断掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001396",
-      "ps-q-001764",
-      "ps-q-002353"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "事件独立性判断"
     ],
@@ -2453,11 +2045,7 @@
     "description": "通过伯努利试验掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000159",
-      "ps-q-002321",
-      "ps-q-002267"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "伯努利试验"
     ],
@@ -2477,11 +2065,7 @@
     "description": "通过二项分布掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-003444",
-      "ps-q-001900",
-      "ps-q-002671"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二项分布"
     ],
@@ -2501,11 +2085,7 @@
     "description": "通过泊松分布掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-003218",
-      "ps-q-000889",
-      "ps-q-003354"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "泊松分布"
     ],
@@ -2525,11 +2105,7 @@
     "description": "通过几何分布掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001401",
-      "ps-q-000936",
-      "ps-q-000458"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何分布"
     ],
@@ -2549,11 +2125,7 @@
     "description": "通过正态分布标准化掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000164",
-      "ps-q-001722",
-      "ps-q-000738"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "正态分布标准化"
     ],
@@ -2573,11 +2145,7 @@
     "description": "通过分布函数掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002316",
-      "ps-q-002837",
-      "ps-q-000914"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布函数"
     ],
@@ -2597,11 +2165,7 @@
     "description": "通过概率密度计算掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001685",
-      "ps-q-001642",
-      "ps-q-001567"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "概率密度计算"
     ],
@@ -2621,11 +2185,7 @@
     "description": "通过二维随机变量掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002491",
-      "ps-q-000830",
-      "ps-q-002458"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二维随机变量"
     ],
@@ -2645,11 +2205,7 @@
     "description": "通过边缘分布掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000473",
-      "ps-q-002663",
-      "ps-q-001670"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边缘分布"
     ],
@@ -2669,11 +2225,7 @@
     "description": "通过条件分布掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002220",
-      "ps-q-003165",
-      "ps-q-001700"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件分布"
     ],
@@ -2693,11 +2245,7 @@
     "description": "通过数学期望掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001302",
-      "ps-q-000014",
-      "ps-q-003457"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数学期望"
     ],
@@ -2717,11 +2265,7 @@
     "description": "通过方差掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002992",
-      "ps-q-001377",
-      "ps-q-000536"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差"
     ],
@@ -2741,11 +2285,7 @@
     "description": "通过协方差掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001516",
-      "ps-q-003429",
-      "ps-q-002363"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "协方差"
     ],
@@ -2765,11 +2305,7 @@
     "description": "通过相关系数掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-003002",
-      "ps-q-001421",
-      "ps-q-000777"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "相关系数"
     ],
@@ -2789,11 +2325,7 @@
     "description": "通过大数定律理解掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000467",
-      "ps-q-002985",
-      "ps-q-000374"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大数定律理解"
     ],
@@ -2813,11 +2345,7 @@
     "description": "通过中心极限定理应用掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002295",
-      "ps-q-000520",
-      "ps-q-003366"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "中心极限定理应用"
     ],
@@ -2837,11 +2365,7 @@
     "description": "通过矩估计掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001285",
-      "ps-q-002552",
-      "ps-q-002085"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "矩估计"
     ],
@@ -2861,11 +2385,7 @@
     "description": "通过最大似然估计掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000091",
-      "ps-q-001570",
-      "ps-q-002813"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最大似然估计"
     ],
@@ -2885,11 +2405,7 @@
     "description": "通过置信区间掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-003279",
-      "ps-q-000431",
-      "ps-q-000527"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "置信区间"
     ],
@@ -2909,11 +2425,7 @@
     "description": "通过假设检验掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002504",
-      "ps-q-002163",
-      "ps-q-000862"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "假设检验"
     ],
@@ -2933,11 +2445,7 @@
     "description": "通过P值解释掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000774",
-      "ps-q-001004",
-      "ps-q-003508"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "P值解释"
     ],
@@ -2957,11 +2465,7 @@
     "description": "通过卡方检验掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001068",
-      "ps-q-000044",
-      "ps-q-000921"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "卡方检验"
     ],
@@ -2981,11 +2485,7 @@
     "description": "通过方差分析掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001758",
-      "ps-q-001897",
-      "ps-q-003209"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差分析"
     ],
@@ -3005,11 +2505,7 @@
     "description": "通过回归分析掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001856",
-      "ps-q-000888",
-      "ps-q-003265"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "回归分析"
     ],
@@ -3029,11 +2525,7 @@
     "description": "通过数据分析中的概率统计掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002732",
-      "ps-q-001683",
-      "ps-q-001867"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析中的概率统计"
     ],
@@ -3053,11 +2545,7 @@
     "description": "通过考研基础综合题掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000408",
-      "ps-q-000760",
-      "ps-q-002660"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础综合题"
     ],
@@ -3077,11 +2565,7 @@
     "description": "通过古典概型计算掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002204",
-      "ps-q-000070",
-      "ps-q-002987"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "古典概型计算"
     ],
@@ -3101,11 +2585,7 @@
     "description": "通过几何概型计算掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000848",
-      "ps-q-000282",
-      "ps-q-000153"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何概型计算"
     ],
@@ -3125,11 +2605,7 @@
     "description": "通过条件概率掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002906",
-      "ps-q-003476",
-      "ps-q-003015"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件概率"
     ],
@@ -3149,11 +2625,7 @@
     "description": "通过全概率公式掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-003060",
-      "ps-q-002339",
-      "ps-q-000642"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全概率公式"
     ],
@@ -3173,11 +2645,7 @@
     "description": "通过贝叶斯公式掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000290",
-      "ps-q-002727",
-      "ps-q-001001"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "贝叶斯公式"
     ],
@@ -3197,11 +2665,7 @@
     "description": "通过事件独立性判断掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002926",
-      "ps-q-003035",
-      "ps-q-002978"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "事件独立性判断"
     ],
@@ -3221,11 +2685,7 @@
     "description": "通过伯努利试验掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000465",
-      "ps-q-000970",
-      "ps-q-000771"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "伯努利试验"
     ],
@@ -3245,11 +2705,7 @@
     "description": "通过二项分布掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001823",
-      "ps-q-001028",
-      "ps-q-003216"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二项分布"
     ],
@@ -3269,11 +2725,7 @@
     "description": "通过泊松分布掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001063",
-      "ps-q-002264",
-      "ps-q-002961"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "泊松分布"
     ],
@@ -3293,11 +2745,7 @@
     "description": "通过几何分布掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002864",
-      "ps-q-000062",
-      "ps-q-002631"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何分布"
     ],
@@ -3317,11 +2765,7 @@
     "description": "通过正态分布标准化掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001668",
-      "ps-q-002199",
-      "ps-q-001736"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "正态分布标准化"
     ],
@@ -3341,11 +2785,7 @@
     "description": "通过分布函数掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000683",
-      "ps-q-001933",
-      "ps-q-002127"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布函数"
     ],
@@ -3365,11 +2805,7 @@
     "description": "通过概率密度计算掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000722",
-      "ps-q-002132",
-      "ps-q-001637"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "概率密度计算"
     ],
@@ -3389,11 +2825,7 @@
     "description": "通过二维随机变量掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001238",
-      "ps-q-000184",
-      "ps-q-001837"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二维随机变量"
     ],
@@ -3413,11 +2845,7 @@
     "description": "通过边缘分布掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-003661",
-      "ps-q-001555",
-      "ps-q-000382"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边缘分布"
     ],
@@ -3437,11 +2865,7 @@
     "description": "通过条件分布掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000825",
-      "ps-q-000697",
-      "ps-q-002358"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件分布"
     ],
@@ -3461,11 +2885,7 @@
     "description": "通过数学期望掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-003098",
-      "ps-q-001948",
-      "ps-q-003155"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数学期望"
     ],
@@ -3485,11 +2905,7 @@
     "description": "通过方差掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000205",
-      "ps-q-000509",
-      "ps-q-002490"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差"
     ],
@@ -3509,11 +2925,7 @@
     "description": "通过协方差掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001292",
-      "ps-q-001365",
-      "ps-q-003086"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "协方差"
     ],
@@ -3533,11 +2945,7 @@
     "description": "通过相关系数掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001262",
-      "ps-q-003383",
-      "ps-q-003283"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "相关系数"
     ],
@@ -3557,11 +2965,7 @@
     "description": "通过大数定律理解掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002436",
-      "ps-q-000247",
-      "ps-q-002183"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大数定律理解"
     ],
@@ -3581,11 +2985,7 @@
     "description": "通过中心极限定理应用掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002930",
-      "ps-q-000361",
-      "ps-q-002257"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "中心极限定理应用"
     ],
@@ -3605,11 +3005,7 @@
     "description": "通过矩估计掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-003067",
-      "ps-q-000390",
-      "ps-q-001609"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "矩估计"
     ],
@@ -3629,11 +3025,7 @@
     "description": "通过最大似然估计掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001323",
-      "ps-q-002982",
-      "ps-q-000268"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最大似然估计"
     ],
@@ -3653,11 +3045,7 @@
     "description": "通过置信区间掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-001533",
-      "ps-q-000640",
-      "ps-q-001195"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "置信区间"
     ],
@@ -3677,11 +3065,7 @@
     "description": "通过假设检验掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-002005",
-      "ps-q-003103",
-      "ps-q-003039"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "假设检验"
     ],
@@ -3701,11 +3085,7 @@
     "description": "通过P值解释掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-003536",
-      "ps-q-001826",
-      "ps-q-000320"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "P值解释"
     ],
@@ -3725,11 +3105,7 @@
     "description": "通过卡方检验掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000469",
-      "ps-q-002884",
-      "ps-q-003066"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "卡方检验"
     ],
@@ -3749,11 +3125,7 @@
     "description": "通过方差分析掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000364",
-      "ps-q-001520",
-      "ps-q-001834"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差分析"
     ],
@@ -3773,11 +3145,7 @@
     "description": "通过回归分析掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000979",
-      "ps-q-001032",
-      "ps-q-003543"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "回归分析"
     ],
@@ -3797,11 +3165,7 @@
     "description": "通过数据分析中的概率统计掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000753",
-      "ps-q-001727",
-      "ps-q-000648"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析中的概率统计"
     ],
@@ -3821,11 +3185,7 @@
     "description": "通过考研基础综合题掌握概率统计方法",
     "difficulty": "medium",
     "duration": 45,
-    "relatedQuestionIds": [
-      "ps-q-000794",
-      "ps-q-003699",
-      "ps-q-002839"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础综合题"
     ],
@@ -3845,11 +3205,7 @@
     "description": "通过古典概型计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001416",
-      "ps-q-002861",
-      "ps-q-002051"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "古典概型计算"
     ],
@@ -3869,11 +3225,7 @@
     "description": "通过几何概型计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001524",
-      "ps-q-001877",
-      "ps-q-003378"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何概型计算"
     ],
@@ -3893,11 +3245,7 @@
     "description": "通过条件概率掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001642",
-      "ps-q-003441",
-      "ps-q-001695"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件概率"
     ],
@@ -3917,11 +3265,7 @@
     "description": "通过全概率公式掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000538",
-      "ps-q-001740",
-      "ps-q-000733"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全概率公式"
     ],
@@ -3941,11 +3285,7 @@
     "description": "通过贝叶斯公式掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002018",
-      "ps-q-000438",
-      "ps-q-000869"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "贝叶斯公式"
     ],
@@ -3965,11 +3305,7 @@
     "description": "通过事件独立性判断掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002215",
-      "ps-q-002522",
-      "ps-q-001548"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "事件独立性判断"
     ],
@@ -3989,11 +3325,7 @@
     "description": "通过伯努利试验掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002060",
-      "ps-q-001037",
-      "ps-q-002389"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "伯努利试验"
     ],
@@ -4013,11 +3345,7 @@
     "description": "通过二项分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000273",
-      "ps-q-000764",
-      "ps-q-003162"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二项分布"
     ],
@@ -4037,11 +3365,7 @@
     "description": "通过泊松分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000015",
-      "ps-q-003433",
-      "ps-q-001391"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "泊松分布"
     ],
@@ -4061,11 +3385,7 @@
     "description": "通过几何分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001067",
-      "ps-q-001508",
-      "ps-q-000455"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何分布"
     ],
@@ -4085,11 +3405,7 @@
     "description": "通过正态分布标准化掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002056",
-      "ps-q-001254",
-      "ps-q-002086"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "正态分布标准化"
     ],
@@ -4109,11 +3425,7 @@
     "description": "通过分布函数掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001666",
-      "ps-q-003158",
-      "ps-q-001392"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布函数"
     ],
@@ -4133,11 +3445,7 @@
     "description": "通过概率密度计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001565",
-      "ps-q-003154",
-      "ps-q-001012"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "概率密度计算"
     ],
@@ -4157,11 +3465,7 @@
     "description": "通过二维随机变量掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000648",
-      "ps-q-002298",
-      "ps-q-003390"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二维随机变量"
     ],
@@ -4181,11 +3485,7 @@
     "description": "通过边缘分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000105",
-      "ps-q-001389",
-      "ps-q-001209"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边缘分布"
     ],
@@ -4205,11 +3505,7 @@
     "description": "通过条件分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001487",
-      "ps-q-003658",
-      "ps-q-000079"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件分布"
     ],
@@ -4229,11 +3525,7 @@
     "description": "通过数学期望掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003339",
-      "ps-q-002727",
-      "ps-q-001721"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数学期望"
     ],
@@ -4253,11 +3545,7 @@
     "description": "通过方差掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000098",
-      "ps-q-003410",
-      "ps-q-001326"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差"
     ],
@@ -4277,11 +3565,7 @@
     "description": "通过协方差掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002060",
-      "ps-q-003363",
-      "ps-q-002716"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "协方差"
     ],
@@ -4301,11 +3585,7 @@
     "description": "通过相关系数掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000236",
-      "ps-q-003281",
-      "ps-q-000718"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "相关系数"
     ],
@@ -4325,11 +3605,7 @@
     "description": "通过大数定律理解掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001315",
-      "ps-q-000528",
-      "ps-q-001977"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大数定律理解"
     ],
@@ -4349,11 +3625,7 @@
     "description": "通过中心极限定理应用掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000257",
-      "ps-q-001705",
-      "ps-q-002459"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "中心极限定理应用"
     ],
@@ -4373,11 +3645,7 @@
     "description": "通过矩估计掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003172",
-      "ps-q-000213",
-      "ps-q-000232"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "矩估计"
     ],
@@ -4397,11 +3665,7 @@
     "description": "通过最大似然估计掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000485",
-      "ps-q-000707",
-      "ps-q-001654"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最大似然估计"
     ],
@@ -4421,11 +3685,7 @@
     "description": "通过置信区间掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002046",
-      "ps-q-000452",
-      "ps-q-000151"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "置信区间"
     ],
@@ -4445,11 +3705,7 @@
     "description": "通过假设检验掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001337",
-      "ps-q-000897",
-      "ps-q-001482"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "假设检验"
     ],
@@ -4469,11 +3725,7 @@
     "description": "通过P值解释掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000064",
-      "ps-q-001767",
-      "ps-q-001360"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "P值解释"
     ],
@@ -4493,11 +3745,7 @@
     "description": "通过卡方检验掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002697",
-      "ps-q-002926",
-      "ps-q-000663"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "卡方检验"
     ],
@@ -4517,11 +3765,7 @@
     "description": "通过方差分析掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003682",
-      "ps-q-002006",
-      "ps-q-002618"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差分析"
     ],
@@ -4541,11 +3785,7 @@
     "description": "通过回归分析掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001249",
-      "ps-q-001221",
-      "ps-q-001887"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "回归分析"
     ],
@@ -4565,11 +3805,7 @@
     "description": "通过数据分析中的概率统计掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001838",
-      "ps-q-002680",
-      "ps-q-003210"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析中的概率统计"
     ],
@@ -4589,11 +3825,7 @@
     "description": "通过考研基础综合题掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000147",
-      "ps-q-001937",
-      "ps-q-002558"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础综合题"
     ],
@@ -4613,11 +3845,7 @@
     "description": "通过古典概型计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002295",
-      "ps-q-002741",
-      "ps-q-003402"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "古典概型计算"
     ],
@@ -4637,11 +3865,7 @@
     "description": "通过几何概型计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003134",
-      "ps-q-003076",
-      "ps-q-001750"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何概型计算"
     ],
@@ -4661,11 +3885,7 @@
     "description": "通过条件概率掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001232",
-      "ps-q-001099",
-      "ps-q-002458"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件概率"
     ],
@@ -4685,11 +3905,7 @@
     "description": "通过全概率公式掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001473",
-      "ps-q-000899",
-      "ps-q-001276"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全概率公式"
     ],
@@ -4709,11 +3925,7 @@
     "description": "通过贝叶斯公式掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000474",
-      "ps-q-002426",
-      "ps-q-002807"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "贝叶斯公式"
     ],
@@ -4733,11 +3945,7 @@
     "description": "通过事件独立性判断掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002127",
-      "ps-q-003310",
-      "ps-q-002074"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "事件独立性判断"
     ],
@@ -4757,11 +3965,7 @@
     "description": "通过伯努利试验掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001862",
-      "ps-q-001076",
-      "ps-q-001553"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "伯努利试验"
     ],
@@ -4781,11 +3985,7 @@
     "description": "通过二项分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002024",
-      "ps-q-003031",
-      "ps-q-000290"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二项分布"
     ],
@@ -4805,11 +4005,7 @@
     "description": "通过泊松分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002091",
-      "ps-q-003700",
-      "ps-q-001337"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "泊松分布"
     ],
@@ -4829,11 +4025,7 @@
     "description": "通过几何分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002947",
-      "ps-q-003071",
-      "ps-q-002015"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何分布"
     ],
@@ -4853,11 +4045,7 @@
     "description": "通过正态分布标准化掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003025",
-      "ps-q-001221",
-      "ps-q-003695"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "正态分布标准化"
     ],
@@ -4877,11 +4065,7 @@
     "description": "通过分布函数掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000470",
-      "ps-q-003597",
-      "ps-q-001319"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布函数"
     ],
@@ -4901,11 +4085,7 @@
     "description": "通过概率密度计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001190",
-      "ps-q-003009",
-      "ps-q-002812"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "概率密度计算"
     ],
@@ -4925,11 +4105,7 @@
     "description": "通过二维随机变量掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003545",
-      "ps-q-003088",
-      "ps-q-002784"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二维随机变量"
     ],
@@ -4949,11 +4125,7 @@
     "description": "通过边缘分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003469",
-      "ps-q-003531",
-      "ps-q-002399"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边缘分布"
     ],
@@ -4973,11 +4145,7 @@
     "description": "通过条件分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003630",
-      "ps-q-002683",
-      "ps-q-000151"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件分布"
     ],
@@ -4997,11 +4165,7 @@
     "description": "通过数学期望掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003209",
-      "ps-q-000024",
-      "ps-q-003654"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数学期望"
     ],
@@ -5021,11 +4185,7 @@
     "description": "通过方差掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003000",
-      "ps-q-000592",
-      "ps-q-000784"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差"
     ],
@@ -5045,11 +4205,7 @@
     "description": "通过协方差掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001504",
-      "ps-q-003637",
-      "ps-q-003351"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "协方差"
     ],
@@ -5069,11 +4225,7 @@
     "description": "通过相关系数掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002777",
-      "ps-q-001590",
-      "ps-q-002524"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "相关系数"
     ],
@@ -5093,11 +4245,7 @@
     "description": "通过大数定律理解掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003258",
-      "ps-q-001255",
-      "ps-q-001380"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大数定律理解"
     ],
@@ -5117,11 +4265,7 @@
     "description": "通过中心极限定理应用掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001977",
-      "ps-q-001713",
-      "ps-q-000779"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "中心极限定理应用"
     ],
@@ -5141,11 +4285,7 @@
     "description": "通过矩估计掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003279",
-      "ps-q-000472",
-      "ps-q-003143"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "矩估计"
     ],
@@ -5165,11 +4305,7 @@
     "description": "通过最大似然估计掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001075",
-      "ps-q-000528",
-      "ps-q-000607"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最大似然估计"
     ],
@@ -5189,11 +4325,7 @@
     "description": "通过置信区间掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002475",
-      "ps-q-001845",
-      "ps-q-003029"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "置信区间"
     ],
@@ -5213,11 +4345,7 @@
     "description": "通过假设检验掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000879",
-      "ps-q-001570",
-      "ps-q-001708"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "假设检验"
     ],
@@ -5237,11 +4365,7 @@
     "description": "通过P值解释掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001852",
-      "ps-q-000690",
-      "ps-q-001388"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "P值解释"
     ],
@@ -5261,11 +4385,7 @@
     "description": "通过卡方检验掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003145",
-      "ps-q-001898",
-      "ps-q-002666"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "卡方检验"
     ],
@@ -5285,11 +4405,7 @@
     "description": "通过方差分析掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000495",
-      "ps-q-001623",
-      "ps-q-002984"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差分析"
     ],
@@ -5309,11 +4425,7 @@
     "description": "通过回归分析掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000327",
-      "ps-q-001230",
-      "ps-q-003466"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "回归分析"
     ],
@@ -5333,11 +4445,7 @@
     "description": "通过数据分析中的概率统计掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002864",
-      "ps-q-001700",
-      "ps-q-001912"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析中的概率统计"
     ],
@@ -5357,11 +4465,7 @@
     "description": "通过考研基础综合题掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001676",
-      "ps-q-002747",
-      "ps-q-000470"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础综合题"
     ],
@@ -5381,11 +4485,7 @@
     "description": "通过古典概型计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001766",
-      "ps-q-002722",
-      "ps-q-002533"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "古典概型计算"
     ],
@@ -5405,11 +4505,7 @@
     "description": "通过几何概型计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001313",
-      "ps-q-002572",
-      "ps-q-001446"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何概型计算"
     ],
@@ -5429,11 +4525,7 @@
     "description": "通过条件概率掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000790",
-      "ps-q-001480",
-      "ps-q-003230"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件概率"
     ],
@@ -5453,11 +4545,7 @@
     "description": "通过全概率公式掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001035",
-      "ps-q-000544",
-      "ps-q-003124"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全概率公式"
     ],
@@ -5477,11 +4565,7 @@
     "description": "通过贝叶斯公式掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002634",
-      "ps-q-002472",
-      "ps-q-002664"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "贝叶斯公式"
     ],
@@ -5501,11 +4585,7 @@
     "description": "通过事件独立性判断掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000015",
-      "ps-q-002653",
-      "ps-q-003649"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "事件独立性判断"
     ],
@@ -5525,11 +4605,7 @@
     "description": "通过伯努利试验掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000481",
-      "ps-q-003347",
-      "ps-q-001726"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "伯努利试验"
     ],
@@ -5549,11 +4625,7 @@
     "description": "通过二项分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001721",
-      "ps-q-003298",
-      "ps-q-001399"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二项分布"
     ],
@@ -5573,11 +4645,7 @@
     "description": "通过泊松分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000157",
-      "ps-q-000370",
-      "ps-q-001726"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "泊松分布"
     ],
@@ -5597,11 +4665,7 @@
     "description": "通过几何分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000411",
-      "ps-q-001383",
-      "ps-q-002330"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何分布"
     ],
@@ -5621,11 +4685,7 @@
     "description": "通过正态分布标准化掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001194",
-      "ps-q-002238",
-      "ps-q-001374"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "正态分布标准化"
     ],
@@ -5645,11 +4705,7 @@
     "description": "通过分布函数掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000399",
-      "ps-q-002989",
-      "ps-q-002949"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "分布函数"
     ],
@@ -5669,11 +4725,7 @@
     "description": "通过概率密度计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002542",
-      "ps-q-000826",
-      "ps-q-001126"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "概率密度计算"
     ],
@@ -5693,11 +4745,7 @@
     "description": "通过二维随机变量掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002973",
-      "ps-q-000931",
-      "ps-q-003602"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "二维随机变量"
     ],
@@ -5717,11 +4765,7 @@
     "description": "通过边缘分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003489",
-      "ps-q-003045",
-      "ps-q-001941"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "边缘分布"
     ],
@@ -5741,11 +4785,7 @@
     "description": "通过条件分布掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001421",
-      "ps-q-003485",
-      "ps-q-003578"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件分布"
     ],
@@ -5765,11 +4805,7 @@
     "description": "通过数学期望掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001454",
-      "ps-q-003171",
-      "ps-q-001005"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数学期望"
     ],
@@ -5789,11 +4825,7 @@
     "description": "通过方差掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000114",
-      "ps-q-001719",
-      "ps-q-003424"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差"
     ],
@@ -5813,11 +4845,7 @@
     "description": "通过协方差掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002469",
-      "ps-q-002129",
-      "ps-q-003284"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "协方差"
     ],
@@ -5837,11 +4865,7 @@
     "description": "通过相关系数掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002331",
-      "ps-q-003171",
-      "ps-q-000731"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "相关系数"
     ],
@@ -5861,11 +4885,7 @@
     "description": "通过大数定律理解掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002274",
-      "ps-q-002569",
-      "ps-q-000783"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "大数定律理解"
     ],
@@ -5885,11 +4905,7 @@
     "description": "通过中心极限定理应用掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001063",
-      "ps-q-003435",
-      "ps-q-000090"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "中心极限定理应用"
     ],
@@ -5909,11 +4925,7 @@
     "description": "通过矩估计掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001370",
-      "ps-q-000464",
-      "ps-q-002363"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "矩估计"
     ],
@@ -5933,11 +4945,7 @@
     "description": "通过最大似然估计掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000901",
-      "ps-q-000546",
-      "ps-q-002185"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "最大似然估计"
     ],
@@ -5957,11 +4965,7 @@
     "description": "通过置信区间掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000817",
-      "ps-q-002152",
-      "ps-q-001961"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "置信区间"
     ],
@@ -5981,11 +4985,7 @@
     "description": "通过假设检验掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002675",
-      "ps-q-002503",
-      "ps-q-001806"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "假设检验"
     ],
@@ -6005,11 +5005,7 @@
     "description": "通过P值解释掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002350",
-      "ps-q-001632",
-      "ps-q-001428"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "P值解释"
     ],
@@ -6029,11 +5025,7 @@
     "description": "通过卡方检验掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001523",
-      "ps-q-000117",
-      "ps-q-003288"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "卡方检验"
     ],
@@ -6053,11 +5045,7 @@
     "description": "通过方差分析掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003071",
-      "ps-q-002173",
-      "ps-q-003695"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "方差分析"
     ],
@@ -6077,11 +5065,7 @@
     "description": "通过回归分析掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000284",
-      "ps-q-003114",
-      "ps-q-001474"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "回归分析"
     ],
@@ -6101,11 +5085,7 @@
     "description": "通过数据分析中的概率统计掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002671",
-      "ps-q-000286",
-      "ps-q-003582"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "数据分析中的概率统计"
     ],
@@ -6125,11 +5105,7 @@
     "description": "通过考研基础综合题掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-003615",
-      "ps-q-001322",
-      "ps-q-000694"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "考研基础综合题"
     ],
@@ -6149,11 +5125,7 @@
     "description": "通过古典概型计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-001893",
-      "ps-q-002200",
-      "ps-q-001776"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "古典概型计算"
     ],
@@ -6173,11 +5145,7 @@
     "description": "通过几何概型计算掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000523",
-      "ps-q-000922",
-      "ps-q-002421"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "几何概型计算"
     ],
@@ -6197,11 +5165,7 @@
     "description": "通过条件概率掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-002367",
-      "ps-q-002093",
-      "ps-q-003388"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "条件概率"
     ],
@@ -6221,11 +5185,7 @@
     "description": "通过全概率公式掌握概率统计方法",
     "difficulty": "hard",
     "duration": 60,
-    "relatedQuestionIds": [
-      "ps-q-000343",
-      "ps-q-000156",
-      "ps-q-002130"
-    ],
+    "relatedQuestionIds": [],
     "tags": [
       "全概率公式"
     ],

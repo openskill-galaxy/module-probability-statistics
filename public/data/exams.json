@@ -1,31 +1,60 @@
 [
   {
     "id": "mod-probability-statistics-exam-1",
-    "slug": "final-exam",
-    "title": "概率论与数理统计学习训练 核心期末综合自测",
-    "summary": "全面检验您对 概率论与数理统计学习训练 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "概率论基础入门测验",
+    "summary": "覆盖事件运算、常见分布的期望方差与正态分布基本性质，适合入门自测。",
     "difficulty": "easy",
     "questionIds": [
       "mod-probability-statistics-q-1",
-      "mod-probability-statistics-q-2",
-      "mod-probability-statistics-q-3",
       "mod-probability-statistics-q-4",
       "mod-probability-statistics-q-5",
-      "mod-probability-statistics-q-6"
+      "mod-probability-statistics-q-10",
+      "mod-probability-statistics-q-14",
+      "mod-probability-statistics-q-16",
+      "mod-probability-statistics-q-22",
+      "mod-probability-statistics-q-23"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-probability-statistics-exam-2",
-    "slug": "basic-exam",
-    "title": "概率论与数理统计学习训练 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "概率与统计推断进阶强化测验",
+    "summary": "聚焦条件概率、贝叶斯公式、抽样分布与假设检验等核心推断方法。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-probability-statistics-q-1",
       "mod-probability-statistics-q-2",
-      "mod-probability-statistics-q-3"
+      "mod-probability-statistics-q-3",
+      "mod-probability-statistics-q-6",
+      "mod-probability-statistics-q-7",
+      "mod-probability-statistics-q-8",
+      "mod-probability-statistics-q-9",
+      "mod-probability-statistics-q-11",
+      "mod-probability-statistics-q-17",
+      "mod-probability-statistics-q-20",
+      "mod-probability-statistics-q-24"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-probability-statistics-exam-3",
+    "slug": "comprehensive-exam",
+    "title": "概率论与数理统计综合模拟卷",
+    "summary": "综合参数估计、置信区间、两大极限定理与独立性辨析的高阶模拟测试。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-probability-statistics-q-3",
+      "mod-probability-statistics-q-12",
+      "mod-probability-statistics-q-13",
+      "mod-probability-statistics-q-15",
+      "mod-probability-statistics-q-17",
+      "mod-probability-statistics-q-18",
+      "mod-probability-statistics-q-19",
+      "mod-probability-statistics-q-20",
+      "mod-probability-statistics-q-21"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60
