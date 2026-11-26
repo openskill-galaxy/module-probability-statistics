@@ -1041,7 +1041,8 @@
     "description": "概率统计标签：抽样分布",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "抽样分布"
+    "slug": "抽样分布-ps-tag-116",
+    "editorialStatus": "draft"
   },
   {
     "id": "ps-tag-117",
@@ -2391,7 +2392,8 @@
     "description": "概率统计标签：条件概率",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "条件概率"
+    "slug": "条件概率-ps-tag-266",
+    "editorialStatus": "draft"
   },
   {
     "id": "ps-tag-267",
@@ -3084,7 +3086,8 @@
     "description": "概率统计标签：风险函数",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "风险函数"
+    "slug": "风险函数-ps-tag-343",
+    "editorialStatus": "draft"
   },
   {
     "id": "ps-tag-344",
@@ -4380,7 +4383,8 @@
     "description": "概率统计标签：EM算法",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "em算法"
+    "slug": "em算法-ps-tag-487",
+    "editorialStatus": "draft"
   },
   {
     "id": "ps-tag-488",
@@ -5523,7 +5527,8 @@
     "description": "概率统计标签：风险",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "风险"
+    "slug": "风险-ps-tag-614",
+    "editorialStatus": "draft"
   },
   {
     "id": "ps-tag-615",
@@ -5802,7 +5807,8 @@
     "description": "概率统计标签：M估计",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "m估计"
+    "slug": "m估计-ps-tag-645",
+    "editorialStatus": "draft"
   },
   {
     "id": "ps-tag-646",
@@ -6171,7 +6177,8 @@
     "description": "概率统计标签：概率分类",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "概率分类"
+    "slug": "概率分类-ps-tag-686",
+    "editorialStatus": "draft"
   },
   {
     "id": "ps-tag-687",

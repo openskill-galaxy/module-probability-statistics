@@ -5,17 +5,36 @@
     "type": "single",
     "stem": "设 A、B 为两个事件，P(A)=0.5，P(B)=0.4，P(AB)=0.2，则 P(A∪B) 等于？",
     "options": [
-      { "key": "A", "text": "0.7" },
-      { "key": "B", "text": "0.9" },
-      { "key": "C", "text": "0.6" },
-      { "key": "D", "text": "0.5" }
+      {
+        "key": "A",
+        "text": "0.7"
+      },
+      {
+        "key": "B",
+        "text": "0.9"
+      },
+      {
+        "key": "C",
+        "text": "0.6"
+      },
+      {
+        "key": "D",
+        "text": "0.5"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "由加法公式 P(A∪B) = P(A) + P(B) − P(AB) = 0.5 + 0.4 − 0.2 = 0.7。直接相加 0.9 会把交集部分重复计算一次，必须减去 P(AB)。另外由 P(AB)=0.2=P(A)P(B)，本题中 A 与 B 恰好相互独立。",
-    "tags": ["加法公式", "事件运算"],
+    "tags": [
+      "加法公式",
+      "事件运算"
+    ],
     "difficulty": "easy",
     "chapter": "mod-probability-statistics-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0010"
+    ],
     "estimated_time": 3
   },
   {
@@ -24,17 +43,36 @@
     "type": "single",
     "stem": "袋中有 3 个红球、2 个白球，不放回地依次取两球，则第二次取到红球的概率是？",
     "options": [
-      { "key": "A", "text": "3/5" },
-      { "key": "B", "text": "1/2" },
-      { "key": "C", "text": "3/10" },
-      { "key": "D", "text": "2/5" }
+      {
+        "key": "A",
+        "text": "3/5"
+      },
+      {
+        "key": "B",
+        "text": "1/2"
+      },
+      {
+        "key": "C",
+        "text": "3/10"
+      },
+      {
+        "key": "D",
+        "text": "2/5"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "由全概率公式：P(第二次红) = P(第一次红)×P(第二红|第一红) + P(第一次白)×P(第二红|第一白) = (3/5)(2/4) + (2/5)(3/4) = 6/20 + 6/20 = 3/5。这体现「抽签原理」：不放回抽取时，每一次抽到红球的概率都等于初始比例 3/5，与抽取次序无关。",
-    "tags": ["全概率公式", "抽签原理"],
+    "tags": [
+      "全概率公式",
+      "抽签原理"
+    ],
     "difficulty": "medium",
-    "chapter": "mod-probability-statistics-c-2",
-    "knowledge_points": [],
+    "chapter": "mod-probability-statistics-c-1",
+    "knowledge_points": [
+      "ps-kp-0019"
+    ],
     "estimated_time": 3
   },
   {
@@ -43,17 +81,37 @@
     "type": "single",
     "stem": "某地区疾病患病率为 1%。检测方法对患者的阳性检出率为 99%，对健康人的误报率为 5%。某人检测呈阳性，他真正患病的概率约为？",
     "options": [
-      { "key": "A", "text": "约 17%" },
-      { "key": "B", "text": "约 99%" },
-      { "key": "C", "text": "约 50%" },
-      { "key": "D", "text": "约 95%" }
+      {
+        "key": "A",
+        "text": "约 17%"
+      },
+      {
+        "key": "B",
+        "text": "约 99%"
+      },
+      {
+        "key": "C",
+        "text": "约 50%"
+      },
+      {
+        "key": "D",
+        "text": "约 95%"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "由贝叶斯公式：P(患病|阳性) = (0.01×0.99) / (0.01×0.99 + 0.99×0.05) = 0.0099 / 0.0594 ≈ 0.1667 ≈ 17%。由于患病是小概率事件（先验仅 1%），即使检测很准，阳性人群中仍以健康误报者居多。这是著名的「基率谬误」，直觉答案 99% 忽略了先验概率。",
-    "tags": ["贝叶斯公式", "条件概率"],
+    "tags": [
+      "贝叶斯公式",
+      "条件概率"
+    ],
     "difficulty": "medium",
-    "chapter": "mod-probability-statistics-c-3",
-    "knowledge_points": [],
+    "chapter": "mod-probability-statistics-c-1",
+    "knowledge_points": [
+      "ps-kp-0020",
+      "ps-kp-0017"
+    ],
     "estimated_time": 4
   },
   {
@@ -62,17 +120,38 @@
     "type": "single",
     "stem": "设随机变量 X ~ B(10, 0.3)（二项分布），则 E(X) 和 D(X) 分别为？",
     "options": [
-      { "key": "A", "text": "E(X)=3，D(X)=2.1" },
-      { "key": "B", "text": "E(X)=3，D(X)=3" },
-      { "key": "C", "text": "E(X)=0.3，D(X)=0.21" },
-      { "key": "D", "text": "E(X)=7，D(X)=2.1" }
+      {
+        "key": "A",
+        "text": "E(X)=3，D(X)=2.1"
+      },
+      {
+        "key": "B",
+        "text": "E(X)=3，D(X)=3"
+      },
+      {
+        "key": "C",
+        "text": "E(X)=0.3，D(X)=0.21"
+      },
+      {
+        "key": "D",
+        "text": "E(X)=7，D(X)=2.1"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "二项分布 B(n,p) 的期望为 np，方差为 np(1−p)。代入 n=10、p=0.3 得 E(X)=10×0.3=3，D(X)=10×0.3×0.7=2.1。选项 B 把泊松分布「期望等于方差」的性质错套到二项分布；C 是单次伯努利试验的结果；D 用了 1−p 计算期望。",
-    "tags": ["二项分布", "期望", "方差"],
+    "tags": [
+      "二项分布",
+      "期望",
+      "方差"
+    ],
     "difficulty": "easy",
-    "chapter": "mod-probability-statistics-c-1",
-    "knowledge_points": [],
+    "chapter": "mod-probability-statistics-c-2",
+    "knowledge_points": [
+      "ps-kp-0062",
+      "ps-kp-0050"
+    ],
     "estimated_time": 3
   },
   {
@@ -81,17 +160,36 @@
     "type": "single",
     "stem": "设 X ~ N(2, 9)（均值 2，方差 9），则标准化变量 Z = (X−2)/3 服从什么分布？",
     "options": [
-      { "key": "A", "text": "N(0, 1)" },
-      { "key": "B", "text": "N(2, 9)" },
-      { "key": "C", "text": "N(0, 9)" },
-      { "key": "D", "text": "N(2, 1)" }
+      {
+        "key": "A",
+        "text": "N(0, 1)"
+      },
+      {
+        "key": "B",
+        "text": "N(2, 9)"
+      },
+      {
+        "key": "C",
+        "text": "N(0, 9)"
+      },
+      {
+        "key": "D",
+        "text": "N(2, 1)"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "正态分布经标准化变换 Z=(X−μ)/σ 后服从标准正态分布 N(0,1)。注意 N(2,9) 中 9 是方差，标准差 σ=3，所以分母是 3 而不是 9。标准化是查标准正态分布表求概率的基础步骤，例如 P(X≤5)=Φ((5−2)/3)=Φ(1)。",
-    "tags": ["正态分布", "标准化"],
+    "tags": [
+      "正态分布",
+      "标准化"
+    ],
     "difficulty": "easy",
     "chapter": "mod-probability-statistics-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0074"
+    ],
     "estimated_time": 3
   },
   {
@@ -100,16 +198,33 @@
     "type": "single",
     "stem": "设连续型随机变量 X 的概率密度为 f(x) = 2x（0≤x≤1），其他处为 0，则 P(X ≤ 0.5) 等于？",
     "options": [
-      { "key": "A", "text": "0.25" },
-      { "key": "B", "text": "0.5" },
-      { "key": "C", "text": "1" },
-      { "key": "D", "text": "0.75" }
+      {
+        "key": "A",
+        "text": "0.25"
+      },
+      {
+        "key": "B",
+        "text": "0.5"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "0.75"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "P(X≤0.5) = ∫₀^0.5 2x dx = x² |₀^0.5 = 0.25。连续型随机变量的概率由密度函数积分得到，不能把 f(0.5)=1 直接当作概率；单点概率恒为 0，P(X≤0.5) 与 P(X<0.5) 相等。",
-    "tags": ["连续型随机变量", "概率密度"],
+    "tags": [
+      "连续型随机变量",
+      "概率密度"
+    ],
     "difficulty": "medium",
-    "chapter": "mod-probability-statistics-c-3",
+    "chapter": "mod-probability-statistics-c-2",
     "knowledge_points": [],
     "estimated_time": 3
   },
@@ -119,17 +234,36 @@
     "type": "single",
     "stem": "设 X 与 Y 相互独立，D(X)=4，D(Y)=9，则 D(2X − Y) 等于？",
     "options": [
-      { "key": "A", "text": "25" },
-      { "key": "B", "text": "7" },
-      { "key": "C", "text": "1" },
-      { "key": "D", "text": "17" }
+      {
+        "key": "A",
+        "text": "25"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "1"
+      },
+      {
+        "key": "D",
+        "text": "17"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "方差性质：D(aX+bY) = a²D(X) + b²D(Y)（X、Y 独立时）。D(2X−Y) = 4×4 + 1×9 = 25。注意系数要平方，且即使是相减，独立变量的方差仍然相加（负号平方后为正），选 C 的同学正是误以为方差可以相减。",
-    "tags": ["方差性质", "独立性"],
+    "tags": [
+      "方差性质",
+      "独立性"
+    ],
     "difficulty": "medium",
     "chapter": "mod-probability-statistics-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0052"
+    ],
     "estimated_time": 3
   },
   {
@@ -138,17 +272,35 @@
     "type": "single",
     "stem": "某客服中心平均每分钟接到 2 个来电，且来电次数近似服从泊松分布，则一分钟内恰好接到 3 个来电的概率为？",
     "options": [
-      { "key": "A", "text": "(2³/3!)e⁻² ≈ 0.180" },
-      { "key": "B", "text": "(3²/2!)e⁻³ ≈ 0.224" },
-      { "key": "C", "text": "2/3" },
-      { "key": "D", "text": "e⁻² ≈ 0.135" }
+      {
+        "key": "A",
+        "text": "(2³/3!)e⁻² ≈ 0.180"
+      },
+      {
+        "key": "B",
+        "text": "(3²/2!)e⁻³ ≈ 0.224"
+      },
+      {
+        "key": "C",
+        "text": "2/3"
+      },
+      {
+        "key": "D",
+        "text": "e⁻² ≈ 0.135"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "泊松分布 P(X=k) = (λᵏ/k!)e^(−λ)，本题 λ=2、k=3，故 P(X=3) = (2³/3!)e⁻² = (8/6)e⁻² ≈ 0.180。泊松分布常用于描述单位时间内随机事件发生次数（来电、故障、到达等），其期望与方差都等于 λ。B 把 λ 与 k 位置弄反；D 是 P(X=0)。",
-    "tags": ["泊松分布"],
+    "tags": [
+      "泊松分布"
+    ],
     "difficulty": "medium",
     "chapter": "mod-probability-statistics-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0064"
+    ],
     "estimated_time": 3
   },
   {
@@ -157,17 +309,37 @@
     "type": "single",
     "stem": "设 X₁, X₂, …, Xₙ 是来自总体 N(μ, σ²) 的简单随机样本，样本均值记为 X̄，则 X̄ 服从的分布是？",
     "options": [
-      { "key": "A", "text": "N(μ, σ²/n)" },
-      { "key": "B", "text": "N(μ, σ²)" },
-      { "key": "C", "text": "N(μ/n, σ²/n)" },
-      { "key": "D", "text": "N(0, 1)" }
+      {
+        "key": "A",
+        "text": "N(μ, σ²/n)"
+      },
+      {
+        "key": "B",
+        "text": "N(μ, σ²)"
+      },
+      {
+        "key": "C",
+        "text": "N(μ/n, σ²/n)"
+      },
+      {
+        "key": "D",
+        "text": "N(0, 1)"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "正态总体的样本均值仍服从正态分布，E(X̄)=μ 不变，而方差缩小为 σ²/n：样本量越大，均值波动越小，这是抽样分布理论与区间估计的基础。B 忽略了平均降低波动的效应；把 X̄ 标准化为 (X̄−μ)/(σ/√n) 后才服从 N(0,1)。",
-    "tags": ["抽样分布", "样本均值"],
+    "tags": [
+      "抽样分布",
+      "样本均值"
+    ],
     "difficulty": "medium",
     "chapter": "mod-probability-statistics-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0096",
+      "ps-kp-0094"
+    ],
     "estimated_time": 3
   },
   {
@@ -176,17 +348,36 @@
     "type": "single",
     "stem": "在假设检验中，「第一类错误」指的是？",
     "options": [
-      { "key": "A", "text": "原假设 H₀ 为真却被拒绝（弃真）" },
-      { "key": "B", "text": "原假设 H₀ 为假却被接受（取伪）" },
-      { "key": "C", "text": "样本容量不足导致检验无法进行" },
-      { "key": "D", "text": "检验统计量计算错误" }
+      {
+        "key": "A",
+        "text": "原假设 H₀ 为真却被拒绝（弃真）"
+      },
+      {
+        "key": "B",
+        "text": "原假设 H₀ 为假却被接受（取伪）"
+      },
+      {
+        "key": "C",
+        "text": "样本容量不足导致检验无法进行"
+      },
+      {
+        "key": "D",
+        "text": "检验统计量计算错误"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "第一类错误（弃真错误）是 H₀ 为真时错误地拒绝它，其概率上限就是显著性水平 α；第二类错误（取伪错误）是 H₀ 为假时未能拒绝，概率记为 β，1−β 称为检验功效。样本量固定时二者此消彼长，只有增大样本量才能同时降低。",
-    "tags": ["假设检验", "两类错误"],
+    "tags": [
+      "假设检验",
+      "两类错误"
+    ],
     "difficulty": "easy",
-    "chapter": "mod-probability-statistics-c-1",
-    "knowledge_points": [],
+    "chapter": "mod-probability-statistics-c-3",
+    "knowledge_points": [
+      "ps-kp-0114"
+    ],
     "estimated_time": 3
   },
   {
@@ -195,17 +386,36 @@
     "type": "single",
     "stem": "总体方差 σ² 未知、样本量较小（n<30）时，对正态总体均值 μ 做检验应采用哪种统计量？",
     "options": [
-      { "key": "A", "text": "t 统计量：t = (X̄−μ₀)/(S/√n)，服从自由度 n−1 的 t 分布" },
-      { "key": "B", "text": "Z 统计量：Z = (X̄−μ₀)/(σ/√n)" },
-      { "key": "C", "text": "χ² 统计量：(n−1)S²/σ²" },
-      { "key": "D", "text": "F 统计量：S₁²/S₂²" }
+      {
+        "key": "A",
+        "text": "t 统计量：t = (X̄−μ₀)/(S/√n)，服从自由度 n−1 的 t 分布"
+      },
+      {
+        "key": "B",
+        "text": "Z 统计量：Z = (X̄−μ₀)/(σ/√n)"
+      },
+      {
+        "key": "C",
+        "text": "χ² 统计量：(n−1)S²/σ²"
+      },
+      {
+        "key": "D",
+        "text": "F 统计量：S₁²/S₂²"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "σ² 未知时用样本标准差 S 替代，统计量 (X̄−μ₀)/(S/√n) 服从自由度为 n−1 的 t 分布，即单样本 t 检验；小样本下 t 分布比标准正态尾部更厚，不能近似用 Z。Z 检验要求 σ 已知（或大样本近似）；χ² 用于单正态总体方差检验；F 用于两总体方差比较。",
-    "tags": ["t检验", "假设检验"],
+    "tags": [
+      "t检验",
+      "假设检验"
+    ],
     "difficulty": "medium",
     "chapter": "mod-probability-statistics-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0114"
+    ],
     "estimated_time": 3
   },
   {
@@ -214,17 +424,38 @@
     "type": "single",
     "stem": "关于矩估计与最大似然估计（MLE），下列说法正确的是？",
     "options": [
-      { "key": "A", "text": "矩估计用样本矩等于总体矩建立方程求解；MLE 选取使观测样本出现概率（似然函数）最大的参数值" },
-      { "key": "B", "text": "两种方法对任何分布的任何参数都给出完全相同的估计" },
-      { "key": "C", "text": "MLE 必须要求总体服从正态分布才能使用" },
-      { "key": "D", "text": "矩估计需要知道似然函数的显式表达式" }
+      {
+        "key": "A",
+        "text": "矩估计用样本矩等于总体矩建立方程求解；MLE 选取使观测样本出现概率（似然函数）最大的参数值"
+      },
+      {
+        "key": "B",
+        "text": "两种方法对任何分布的任何参数都给出完全相同的估计"
+      },
+      {
+        "key": "C",
+        "text": "MLE 必须要求总体服从正态分布才能使用"
+      },
+      {
+        "key": "D",
+        "text": "矩估计需要知道似然函数的显式表达式"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "矩估计令样本原点矩等于总体原点矩解出参数，简单直观；MLE 最大化似然函数 L(θ)=∏f(xᵢ;θ)（常对数化后求导），大样本下具有相合性与渐近有效性。两者结果有时一致（如正态均值）有时不同（如均匀分布 U(0,θ) 的 θ）；MLE 适用于任何已知形式的分布；矩估计恰恰不需要似然函数。",
-    "tags": ["参数估计", "最大似然估计", "矩估计"],
+    "tags": [
+      "参数估计",
+      "最大似然估计",
+      "矩估计"
+    ],
     "difficulty": "hard",
     "chapter": "mod-probability-statistics-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0103",
+      "ps-kp-0101"
+    ],
     "estimated_time": 4
   },
   {
@@ -233,17 +464,37 @@
     "type": "single",
     "stem": "对置信水平 95% 的置信区间，正确的频率学派解释是？",
     "options": [
-      { "key": "A", "text": "重复抽样构造大量这样的区间，约有 95% 的区间会覆盖真实参数值" },
-      { "key": "B", "text": "真实参数落入某个已算出的具体区间的概率是 95%" },
-      { "key": "C", "text": "样本均值有 95% 的概率等于总体均值" },
-      { "key": "D", "text": "有 95% 的样本数据落在该区间内" }
+      {
+        "key": "A",
+        "text": "重复抽样构造大量这样的区间，约有 95% 的区间会覆盖真实参数值"
+      },
+      {
+        "key": "B",
+        "text": "真实参数落入某个已算出的具体区间的概率是 95%"
+      },
+      {
+        "key": "C",
+        "text": "样本均值有 95% 的概率等于总体均值"
+      },
+      {
+        "key": "D",
+        "text": "有 95% 的样本数据落在该区间内"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "频率学派中总体参数是固定常数，某个具体区间要么覆盖它要么不覆盖，不存在概率可言；95% 描述的是「区间构造方法」的长期覆盖频率：反复抽样构造区间，约 95% 会盖住真值。B 是常见误读（那是贝叶斯可信区间的口吻）；D 混淆了置信区间与数据的分布范围。",
-    "tags": ["置信区间", "区间估计"],
+    "tags": [
+      "置信区间",
+      "区间估计"
+    ],
     "difficulty": "hard",
-    "chapter": "mod-probability-statistics-c-1",
-    "knowledge_points": [],
+    "chapter": "mod-probability-statistics-c-3",
+    "knowledge_points": [
+      "ps-kp-0110",
+      "ps-kp-0109"
+    ],
     "estimated_time": 4
   },
   {
@@ -252,14 +503,31 @@
     "type": "single",
     "stem": "一元线性回归 y = β₀ + β₁x + ε 中，最小二乘法估计参数的准则是？",
     "options": [
-      { "key": "A", "text": "使残差平方和 Σ(yᵢ − ŷᵢ)² 达到最小" },
-      { "key": "B", "text": "使残差的代数和 Σ(yᵢ − ŷᵢ) 达到最小" },
-      { "key": "C", "text": "使相关系数恰好等于 1" },
-      { "key": "D", "text": "使回归直线通过尽可能多的样本点" }
+      {
+        "key": "A",
+        "text": "使残差平方和 Σ(yᵢ − ŷᵢ)² 达到最小"
+      },
+      {
+        "key": "B",
+        "text": "使残差的代数和 Σ(yᵢ − ŷᵢ) 达到最小"
+      },
+      {
+        "key": "C",
+        "text": "使相关系数恰好等于 1"
+      },
+      {
+        "key": "D",
+        "text": "使回归直线通过尽可能多的样本点"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "最小二乘准则是最小化残差平方和，平方既消除正负抵消又便于求导得到正规方程组。残差代数和恒可为 0（过均值点的任何直线族），不能作准则；相关系数由数据决定而非人为设定；回归线通常不穿过任何样本点，只要求整体拟合最优。",
-    "tags": ["线性回归", "最小二乘法"],
+    "tags": [
+      "线性回归",
+      "最小二乘法"
+    ],
     "difficulty": "easy",
     "chapter": "mod-probability-statistics-c-2",
     "knowledge_points": [],
@@ -271,16 +539,35 @@
     "type": "multiple",
     "stem": "设 A、B 是两个事件且 P(A)>0，P(B)>0，下列关于「独立」与「互斥」的说法正确的有？（多选）",
     "options": [
-      { "key": "A", "text": "A、B 相互独立等价于 P(AB) = P(A)P(B)" },
-      { "key": "B", "text": "A、B 互斥意味着 P(AB) = 0" },
-      { "key": "C", "text": "概率均为正的两个事件若互斥，则一定不独立" },
-      { "key": "D", "text": "互斥与独立是同一个概念的两种说法" }
+      {
+        "key": "A",
+        "text": "A、B 相互独立等价于 P(AB) = P(A)P(B)"
+      },
+      {
+        "key": "B",
+        "text": "A、B 互斥意味着 P(AB) = 0"
+      },
+      {
+        "key": "C",
+        "text": "概率均为正的两个事件若互斥，则一定不独立"
+      },
+      {
+        "key": "D",
+        "text": "互斥与独立是同一个概念的两种说法"
+      }
     ],
-    "answer": ["A", "B", "C"],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
     "explanation": "独立的定义即 P(AB)=P(A)P(B)；互斥指 AB=∅ 故 P(AB)=0。若两事件互斥且概率均为正，则 P(AB)=0 ≠ P(A)P(B)>0，必不独立——互斥表示「一个发生另一个必不发生」，是极强的依赖关系。因此 D 完全错误，二者不但不同，在正概率条件下还互相排斥。",
-    "tags": ["独立性", "互斥事件"],
+    "tags": [
+      "独立性",
+      "互斥事件"
+    ],
     "difficulty": "medium",
-    "chapter": "mod-probability-statistics-c-3",
+    "chapter": "mod-probability-statistics-c-1",
     "knowledge_points": [],
     "estimated_time": 4
   },
@@ -290,17 +577,39 @@
     "type": "multiple",
     "stem": "关于正态分布 N(μ, σ²)，下列说法正确的有？（多选）",
     "options": [
-      { "key": "A", "text": "密度曲线关于 x=μ 对称，均值、中位数、众数三者相等" },
-      { "key": "B", "text": "取值落在 (μ−σ, μ+σ) 内的概率约为 68.3%，落在 (μ−2σ, μ+2σ) 内约为 95.4%" },
-      { "key": "C", "text": "σ 越大，密度曲线越矮越胖，数据越分散" },
-      { "key": "D", "text": "两个正态变量不相关就一定相互独立" }
+      {
+        "key": "A",
+        "text": "密度曲线关于 x=μ 对称，均值、中位数、众数三者相等"
+      },
+      {
+        "key": "B",
+        "text": "取值落在 (μ−σ, μ+σ) 内的概率约为 68.3%，落在 (μ−2σ, μ+2σ) 内约为 95.4%"
+      },
+      {
+        "key": "C",
+        "text": "σ 越大，密度曲线越矮越胖，数据越分散"
+      },
+      {
+        "key": "D",
+        "text": "两个正态变量不相关就一定相互独立"
+      }
     ],
-    "answer": ["A", "B", "C"],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
     "explanation": "A、B、C 是正态分布的基本性质（3σ 原则：三倍标准差内约 99.7%）。D 有陷阱：只有当 (X,Y) 服从「二维联合正态」时不相关才等价于独立；两个边缘分布各自正态但联合分布非正态的变量，可以不相关却不独立，故 D 的说法不严谨，不能选。",
-    "tags": ["正态分布", "3σ原则"],
+    "tags": [
+      "正态分布",
+      "3σ原则"
+    ],
     "difficulty": "medium",
     "chapter": "mod-probability-statistics-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0074",
+      "ps-kp-0077"
+    ],
     "estimated_time": 4
   },
   {
@@ -309,17 +618,39 @@
     "type": "multiple",
     "stem": "关于大数定律与中心极限定理（CLT），下列说法正确的有？（多选）",
     "options": [
-      { "key": "A", "text": "大数定律表明：独立同分布样本的均值依概率收敛于总体期望" },
-      { "key": "B", "text": "中心极限定理表明：大量独立同分布（方差有限）随机变量之和经标准化后近似服从标准正态分布" },
-      { "key": "C", "text": "CLT 成立不要求每个个体变量本身服从正态分布" },
-      { "key": "D", "text": "大数定律保证抛硬币出现 10 次连续正面后，下一次反面的概率会大于 1/2" }
+      {
+        "key": "A",
+        "text": "大数定律表明：独立同分布样本的均值依概率收敛于总体期望"
+      },
+      {
+        "key": "B",
+        "text": "中心极限定理表明：大量独立同分布（方差有限）随机变量之和经标准化后近似服从标准正态分布"
+      },
+      {
+        "key": "C",
+        "text": "CLT 成立不要求每个个体变量本身服从正态分布"
+      },
+      {
+        "key": "D",
+        "text": "大数定律保证抛硬币出现 10 次连续正面后，下一次反面的概率会大于 1/2"
+      }
     ],
-    "answer": ["A", "B", "C"],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
     "explanation": "A 是（弱）大数定律的内容，是「频率稳定于概率」的理论依据；B、C 是 CLT 的精髓——无论个体分布形状如何（只需独立同分布且方差有限），和的分布趋于正态，这解释了正态分布的普遍性。D 是「赌徒谬误」：独立试验中下一次正面概率仍是 1/2，大数定律描述的是长期频率，不会「补偿」短期偏差。",
-    "tags": ["大数定律", "中心极限定理"],
+    "tags": [
+      "大数定律",
+      "中心极限定理"
+    ],
     "difficulty": "medium",
     "chapter": "mod-probability-statistics-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0081",
+      "ps-kp-0085"
+    ],
     "estimated_time": 4
   },
   {
@@ -328,17 +659,39 @@
     "type": "multiple",
     "stem": "关于评价点估计量优良性的标准，下列说法正确的有？（多选）",
     "options": [
-      { "key": "A", "text": "无偏性：估计量的期望等于被估参数，即 E(θ̂) = θ" },
-      { "key": "B", "text": "有效性：在无偏估计量中，方差越小越有效" },
-      { "key": "C", "text": "相合性（一致性）：样本量趋于无穷时，估计量依概率收敛于真值" },
-      { "key": "D", "text": "样本方差取分母 n−1 而不是 n，正是为了保证对总体方差的无偏性" }
+      {
+        "key": "A",
+        "text": "无偏性：估计量的期望等于被估参数，即 E(θ̂) = θ"
+      },
+      {
+        "key": "B",
+        "text": "有效性：在无偏估计量中，方差越小越有效"
+      },
+      {
+        "key": "C",
+        "text": "相合性（一致性）：样本量趋于无穷时，估计量依概率收敛于真值"
+      },
+      {
+        "key": "D",
+        "text": "样本方差取分母 n−1 而不是 n，正是为了保证对总体方差的无偏性"
+      }
     ],
-    "answer": ["A", "B", "C", "D"],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
     "explanation": "四条全部正确。无偏性要求平均意义上不高估不低估；有效性比较无偏估计量的方差；相合性保证大样本下估计收敛于真值。样本方差 S² = Σ(Xᵢ−X̄)²/(n−1)，因为均值 X̄ 本身由数据估出损失一个自由度，用 n 作分母会系统性低估 σ²，除以 n−1（贝塞尔校正）恰好使 E(S²)=σ²。",
-    "tags": ["点估计", "无偏性"],
+    "tags": [
+      "点估计",
+      "无偏性"
+    ],
     "difficulty": "hard",
     "chapter": "mod-probability-statistics-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0100"
+    ],
     "estimated_time": 5
   },
   {
@@ -347,9 +700,13 @@
     "type": "judge",
     "stem": "判断：对连续型随机变量 X，任意单点的概率 P(X = a) 恒等于 0，但这并不意味着事件 {X = a} 不可能发生。",
     "options": [],
-    "answer": ["T"],
+    "answer": [
+      "T"
+    ],
     "explanation": "正确。连续型随机变量的概率是密度在区间上的积分，单点积分为 0，因此 P(X=a)=0。但「概率为零」不等于「不可能事件」：X 总会取到某个具体值，每个具体值的概率都是 0。这也是 P(a≤X≤b) 与 P(a<X<b) 相等的原因。",
-    "tags": ["连续型随机变量"],
+    "tags": [
+      "连续型随机变量"
+    ],
     "difficulty": "medium",
     "chapter": "mod-probability-statistics-c-1",
     "knowledge_points": [],
@@ -361,12 +718,19 @@
     "type": "judge",
     "stem": "判断：两个随机变量的相关系数 ρ = 0（不相关），就一定说明它们相互独立。",
     "options": [],
-    "answer": ["F"],
+    "answer": [
+      "F"
+    ],
     "explanation": "错误。相关系数只度量线性相关程度，独立必推出不相关，但反之不成立。经典反例：X 在 (−1,1) 上均匀分布，Y=X²，则 Cov(X,Y)=E(X³)=0 即不相关，但 Y 完全由 X 决定，显然不独立。仅在二维联合正态分布下，不相关才等价于独立。",
-    "tags": ["相关系数", "独立性"],
+    "tags": [
+      "相关系数",
+      "独立性"
+    ],
     "difficulty": "medium",
     "chapter": "mod-probability-statistics-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0056"
+    ],
     "estimated_time": 2
   },
   {
@@ -375,12 +739,20 @@
     "type": "judge",
     "stem": "判断：假设检验中 p 值小于显著性水平 α（如 0.05）时拒绝原假设；p 值表示的是「在 H₀ 为真的前提下，出现当前样本或更极端结果的概率」。",
     "options": [],
-    "answer": ["T"],
+    "answer": [
+      "T"
+    ],
     "explanation": "正确。p 值是条件概率：假定 H₀ 成立，观测到不小于当前极端程度的样本结果的概率。p<α 说明这一结果在 H₀ 下过于罕见，按小概率原理拒绝 H₀。要注意 p 值不是「H₀ 为真的概率」，也不是「结论错误的概率」，这两种理解都是常见误区。",
-    "tags": ["p值", "假设检验"],
+    "tags": [
+      "p值",
+      "假设检验"
+    ],
     "difficulty": "easy",
     "chapter": "mod-probability-statistics-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0122",
+      "ps-kp-0114"
+    ],
     "estimated_time": 2
   },
   {
@@ -389,12 +761,18 @@
     "type": "judge",
     "stem": "判断：对任意随机变量 X 和 Y，恒有 E(X + Y) = E(X) + E(Y)，无论二者是否独立。",
     "options": [],
-    "answer": ["T"],
+    "answer": [
+      "T"
+    ],
     "explanation": "正确。期望的线性性质对任意（期望存在的）随机变量成立，不需要独立性假设，这是期望最强大的性质之一。与之对比，D(X+Y)=D(X)+D(Y)+2Cov(X,Y)，只有当 X、Y 不相关（协方差为 0）时方差才可直接相加，两条性质的适用条件经常被混淆。",
-    "tags": ["期望性质"],
+    "tags": [
+      "期望性质"
+    ],
     "difficulty": "easy",
     "chapter": "mod-probability-statistics-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0049"
+    ],
     "estimated_time": 2
   },
   {
@@ -403,12 +781,18 @@
     "type": "short",
     "stem": "泊松分布 P(λ) 的期望与方差有一个著名的相等关系，两者都等于哪个参数？",
     "options": [],
-    "answer": ["λ|lambda|拉姆达|参数λ"],
+    "answer": [
+      "λ|lambda|拉姆达|参数λ"
+    ],
     "explanation": "泊松分布 P(X=k)=(λᵏ/k!)e^(−λ) 的期望与方差都等于参数 λ。这一「均值等于方差」的特征常用来初判计数数据是否适合泊松模型：若样本方差明显大于样本均值（过度离散），应考虑负二项分布等替代模型。",
-    "tags": ["泊松分布"],
+    "tags": [
+      "泊松分布"
+    ],
     "difficulty": "easy",
     "chapter": "mod-probability-statistics-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0064"
+    ],
     "estimated_time": 2
   },
   {
@@ -417,12 +801,18 @@
     "type": "short",
     "stem": "在已知结果发生的条件下，反推各「原因」概率的公式称为什么公式？（中文名称）",
     "options": [],
-    "answer": ["贝叶斯公式|贝叶斯定理|Bayes公式|逆概率公式"],
+    "answer": [
+      "贝叶斯公式|贝叶斯定理|Bayes公式|逆概率公式"
+    ],
     "explanation": "贝叶斯公式 P(Aᵢ|B) = P(Aᵢ)P(B|Aᵢ) / ΣP(Aⱼ)P(B|Aⱼ)，把先验概率 P(Aᵢ) 更新为观察到证据 B 之后的后验概率，故又称逆概率公式。它与全概率公式互为「正向预测/反向溯因」，是垃圾邮件过滤、医学诊断、机器学习中朴素贝叶斯分类器的理论基础。",
-    "tags": ["贝叶斯公式"],
+    "tags": [
+      "贝叶斯公式"
+    ],
     "difficulty": "easy",
     "chapter": "mod-probability-statistics-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ps-kp-0020"
+    ],
     "estimated_time": 2
   }
 ]

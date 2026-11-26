@@ -7,43 +7,43 @@
     "steps": [
       {
         "order": 1,
-        "title": "概率论与数理统计学习训练 环境依赖搭建与运行机制",
-        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "title": "用事件运算求概率",
+        "description": "研习主题包括加法公式、事件运算、独立性、互斥事件。",
         "courseId": "mod-probability-statistics-c-1",
         "lessonId": "mod-probability-statistics-l-1"
       },
       {
         "order": 2,
-        "title": "概率论与数理统计学习训练 配置文件覆盖与属性解析",
-        "description": "学习课时: 学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
+        "title": "全概率与贝叶斯更新",
+        "description": "研习主题包括全概率公式、抽签原理、贝叶斯公式、条件概率。",
         "courseId": "mod-probability-statistics-c-1",
         "lessonId": "mod-probability-statistics-l-2"
       },
       {
         "order": 3,
-        "title": "概率论与数理统计学习训练 API 接口规范与数据通信",
-        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "title": "二项与泊松分布",
+        "description": "研习主题包括二项分布、期望、方差、泊松分布。",
         "courseId": "mod-probability-statistics-c-2",
         "lessonId": "mod-probability-statistics-l-3"
       },
       {
         "order": 4,
-        "title": "概率论与数理统计学习训练 核心控制器与数据校验机制",
-        "description": "学习课时: 掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
+        "title": "正态标准化与概率密度",
+        "description": "研习主题包括正态分布、标准化、连续型随机变量、概率密度。",
         "courseId": "mod-probability-statistics-c-2",
         "lessonId": "mod-probability-statistics-l-4"
       },
       {
         "order": 5,
-        "title": "概率论与数理统计学习训练 缓存优化与垃圾回收调优",
-        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "title": "抽样分布与置信区间",
+        "description": "研习主题包括抽样分布、样本均值、置信区间、区间估计。",
         "courseId": "mod-probability-statistics-c-3",
         "lessonId": "mod-probability-statistics-l-5"
       },
       {
         "order": 6,
-        "title": "概率论与数理统计学习训练 可观测性日志与分布式链路监控",
-        "description": "学习课时: 配置全局日志收集管道，分析高负载服务下的运行指标波动。",
+        "title": "检验错误与 p 值",
+        "description": "研习主题包括假设检验、两类错误、p值。",
         "courseId": "mod-probability-statistics-c-3",
         "lessonId": "mod-probability-statistics-l-6"
       }
@@ -57,22 +57,22 @@
     "steps": [
       {
         "order": 1,
-        "title": "概率论与数理统计学习训练 环境依赖搭建与运行机制",
-        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "title": "用事件运算求概率",
+        "description": "研习主题包括加法公式、事件运算、独立性、互斥事件。",
         "courseId": "mod-probability-statistics-c-1",
         "lessonId": "mod-probability-statistics-l-1"
       },
       {
         "order": 3,
-        "title": "概率论与数理统计学习训练 API 接口规范与数据通信",
-        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "title": "二项与泊松分布",
+        "description": "研习主题包括二项分布、期望、方差、泊松分布。",
         "courseId": "mod-probability-statistics-c-2",
         "lessonId": "mod-probability-statistics-l-3"
       },
       {
         "order": 5,
-        "title": "概率论与数理统计学习训练 缓存优化与垃圾回收调优",
-        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "title": "抽样分布与置信区间",
+        "description": "研习主题包括抽样分布、样本均值、置信区间、区间估计。",
         "courseId": "mod-probability-statistics-c-3",
         "lessonId": "mod-probability-statistics-l-5"
       }

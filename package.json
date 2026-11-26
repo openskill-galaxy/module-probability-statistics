@@ -2,7 +2,7 @@
   "name": "openskill-module-probability-statistics",
   "version": "1.0.0",
   "private": true,
-  "description": "OpenSkill Galaxy reusable static learning module template.",
+  "description": "面向大学概统期末复习考研基础数据分析与机器学习入门",
   "type": "module",
   "scripts": {
     "dev": "vite",

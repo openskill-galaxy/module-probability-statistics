@@ -1,6 +1,7 @@
 {
-  "short_name": "OpenSkill Module",
-  "name": "OpenSkill Galaxy — 学习自测模块",
+  "short_name": "概率论与数理统计学习训练",
+  "name": "OpenSkill Galaxy — 概率论与数理统计学习训练",
+  "description": "面向大学概率论与数理统计学习者工科经管学生专升本考研基础复习数据分析入门者提供概率随机变量分布数字特征大数定律中心极限定理参数估计假设检验方差分析回归基础和综合题训练的静态学习模块。",
   "icons": [
     {
       "src": "favicon.svg",
@@ -8,9 +9,10 @@
       "sizes": "any"
     }
   ],
-  "start_url": ".",
-  "background_color": "#fbfbfd",
-  "theme_color": "#4f46e5",
+  "start_url": "/module-probability-statistics/",
+  "scope": "/module-probability-statistics/",
+  "background_color": "#f4f5fa",
+  "theme_color": "#3039c9",
   "display": "standalone",
   "orientation": "portrait"
 }
